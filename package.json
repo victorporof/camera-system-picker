@@ -4,17 +4,19 @@
   "license": "MIT",
   "scripts": {
     "start": "babel-node index.js",
-    "scrap:lenses": "babel-node src/scrap-lenses.js",
-    "scrap:cameras": "babel-node src/scrap-cameras.js",
+    "check:cameras": "babel-node src/check-cameras.js",
+    "check:lenses": "babel-node src/check-lenses.js",
+    "build:camera-links": "mkdir -p build; babel-node src/build-camera-links.js",
+    "build:lens-links": "mkdir -p build; babel-node src/build-lens-links.js",
+    "build:camera-data": "mkdir -p build; babel-node src/build-camera-data.js",
+    "build:lens-data": "mkdir -p build; babel-node src/build-lens-data.js",
     "mounts": "babel-node src/make-mounts.js"
   },
   "dependencies": {
     "delay": "^4.3.0",
-    "got": "^9.6.0",
-    "html-minifier": "^4.0.0",
     "lodash": "^4.17.15",
     "moment": "^2.24.0",
-    "string": "^3.3.3"
+    "puppeteer": "^5.5.0"
   },
   "devDependencies": {
     "@babel/core": "^7.5.5",

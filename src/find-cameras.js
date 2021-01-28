@@ -1,62 +1,71 @@
-import scrap from "../data/scrap-cameras.json";
 import moment from "moment";
 
-export default ({ announced = {}, exclude = {}, include = {}, sorted = {} }) =>
-  scrap
-    .filter(e =>
+import * as Fix from "./fix";
+import cameras from "../build/camera-data";
+
+Fix.fixMounts(cameras);
+
+export default ({
+  announced = {},
+  exclude = {},
+  include = {},
+  sorted = {},
+} = {}) =>
+  cameras
+    .filter((e) =>
       announced.before
         ? moment(e.date, "MMM DD, YYYY").valueOf() <= announced.before
         : true
     )
-    .filter(e =>
+    .filter((e) =>
       announced.after
         ? moment(e.date, "MMM DD, YYYY").valueOf() >= announced.after
         : true
     )
-    .filter(e =>
+    .filter((e) =>
       include.labels
-        ? include.labels.every(r => new RegExp(r).test(e.label))
+        ? include.labels.every((r) => new RegExp(r).test(e.label))
         : true
     )
-    .filter(e =>
+    .filter((e) =>
       include.mounts
-        ? include.mounts.every(r => new RegExp(r).test(e.mount))
+        ? include.mounts.every((r) => new RegExp(r).test(e.mount))
         : true
     )
-    .filter(e =>
+    .filter((e) =>
       include.sensors
-        ? include.sensors.every(r => new RegExp(r).test(e.sensor.type))
+        ? include.sensors.every((r) => new RegExp(r).test(e.sensor.type))
         : true
     )
-    .filter(e =>
+    .filter((e) =>
       include.weights
-        ? include.weights.every(r => new RegExp(r).test(e.weight))
+        ? include.weights.every((r) => new RegExp(r).test(e.weight))
         : true
     )
-    .filter(e =>
+    .filter((e) =>
       exclude.labels
-        ? !exclude.labels.some(r => new RegExp(r).test(e.label))
+        ? !exclude.labels.some((r) => new RegExp(r).test(e.label))
         : true
     )
-    .filter(e =>
+    .filter((e) =>
       exclude.mounts
-        ? !exclude.mounts.some(r => new RegExp(r).test(e.mount))
+        ? !exclude.mounts.some((r) => new RegExp(r).test(e.mount))
         : true
     )
-    .filter(e =>
+    .filter((e) =>
       exclude.sensors
-        ? !exclude.sensors.some(r => new RegExp(r).test(e.sensor.type))
+        ? !exclude.sensors.some((r) => new RegExp(r).test(e.sensor.type))
         : true
     )
-    .filter(e =>
+    .filter((e) =>
       exclude.weights
-        ? !exclude.weights.some(r => new RegExp(r).test(e.weight))
+        ? !exclude.weights.some((r) => new RegExp(r).test(e.weight))
         : true
     )
     .sort((a, b) =>
       sorted.byDate
-        ? moment(b.date, "MMM DD, YYYY").valueOf() -
-          moment(a.date, "MMM DD, YYYY").valueOf()
+        ? moment(a.date, "MMM DD, YYYY").valueOf() -
+          moment(b.date, "MMM DD, YYYY").valueOf()
         : 0
     )
     .sort((a, b) =>

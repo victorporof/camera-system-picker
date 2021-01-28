@@ -10,7 +10,7 @@ export default async (data, mapper, out) => {
   await fs.appendFile(out, `[`);
 
   for (let i = 0; i < data.length; i++) {
-    const scrap = await mapper(data[i], i);
+    const scrap = await mapper(data[i], i, data.length);
     await fs.appendFile(out, `${JSON.stringify(scrap, null, 2)},\n`);
     await delay(1000);
   }

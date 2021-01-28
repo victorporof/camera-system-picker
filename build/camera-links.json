@@ -1,0 +1,4214 @@
+[
+  {
+    "year": 2010,
+    "cameras": [
+      {
+        "label": "Samsung NX11",
+        "href": "https://www.dpreview.com/products/samsung/slrs/samsung_nx11"
+      },
+      {
+        "label": "Samsung WB700",
+        "href": "https://www.dpreview.com/products/samsung/compacts/samsung_wb700"
+      },
+      {
+        "label": "Olympus PEN E-PL1s",
+        "href": "https://www.dpreview.com/products/olympus/slrs/oly_epl1s"
+      },
+      {
+        "label": "Panasonic Lumix DMC-GF2",
+        "href": "https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcgf2"
+      },
+      {
+        "label": "Ricoh G700SE",
+        "href": "https://www.dpreview.com/products/ricoh/compacts/ricoh_g700se"
+      },
+      {
+        "label": "Sigma SD1",
+        "href": "https://www.dpreview.com/products/sigma/slrs/sigma_sd1"
+      },
+      {
+        "label": "Ricoh GXR GR Lens A12 28mm F2.5",
+        "href": "https://www.dpreview.com/products/ricoh/slrs/ricoh_gxr_a12_28"
+      },
+      {
+        "label": "Panasonic Lumix DMC-GH2",
+        "href": "https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcgh2"
+      },
+      {
+        "label": "Leica D-LUX 5",
+        "href": "https://www.dpreview.com/products/leica/compacts/leica_dlux5"
+      },
+      {
+        "label": "Leica V-Lux 2",
+        "href": "https://www.dpreview.com/products/leica/compacts/leica_vlux2"
+      },
+      {
+        "label": "Casio Exilim EX-H20G",
+        "href": "https://www.dpreview.com/products/casio/compacts/casio_exh20g"
+      },
+      {
+        "label": "Casio Exilim EX-ZR10",
+        "href": "https://www.dpreview.com/products/casio/compacts/casio_exzr10"
+      },
+      {
+        "label": "Casio Exilim EX-Z2300",
+        "href": "https://www.dpreview.com/products/casio/compacts/casio_exz2300"
+      },
+      {
+        "label": "Casio Exilim EX-Z16",
+        "href": "https://www.dpreview.com/products/casio/compacts/casio_exz16"
+      },
+      {
+        "label": "Pentax K-5",
+        "href": "https://www.dpreview.com/products/pentax/slrs/pentax_k5"
+      },
+      {
+        "label": "Fujifilm FinePix X100",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_x100"
+      },
+      {
+        "label": "Nikon D7000",
+        "href": "https://www.dpreview.com/products/nikon/slrs/nikon_d7000"
+      },
+      {
+        "label": "Olympus E-5",
+        "href": "https://www.dpreview.com/products/olympus/slrs/oly_e5"
+      },
+      {
+        "label": "Canon PowerShot G12",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_g12"
+      },
+      {
+        "label": "Canon PowerShot SX30 IS",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_sx30is"
+      },
+      {
+        "label": "Samsung NX100",
+        "href": "https://www.dpreview.com/products/samsung/slrs/samsung_nx100"
+      },
+      {
+        "label": "Pentax K-r",
+        "href": "https://www.dpreview.com/products/pentax/slrs/pentax_kr"
+      },
+      {
+        "label": "Pentax Optio RZ10",
+        "href": "https://www.dpreview.com/products/pentax/compacts/pentax_optiorz10"
+      },
+      {
+        "label": "Nikon Coolpix P7000",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cpp7000"
+      },
+      {
+        "label": "Nikon Coolpix S80",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cps80"
+      },
+      {
+        "label": "Nikon Coolpix S8100",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cps8100"
+      },
+      {
+        "label": "Canon EOS 60D",
+        "href": "https://www.dpreview.com/products/canon/slrs/canon_eos60d"
+      },
+      {
+        "label": "Sony SLT-A55",
+        "href": "https://www.dpreview.com/products/sony/slrs/sony_slta55"
+      },
+      {
+        "label": "Sony SLT-A33",
+        "href": "https://www.dpreview.com/products/sony/slrs/sony_slta33"
+      },
+      {
+        "label": "Sony Alpha DSLR-A580",
+        "href": "https://www.dpreview.com/products/sony/slrs/sony_dslra580"
+      },
+      {
+        "label": "Sony Alpha DSLR-A560",
+        "href": "https://www.dpreview.com/products/sony/slrs/sony_dslra560"
+      },
+      {
+        "label": "Kodak M590",
+        "href": "https://www.dpreview.com/products/kodak/compacts/kodak_m590"
+      },
+      {
+        "label": "Canon PowerShot S95",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_s95"
+      },
+      {
+        "label": "Nikon D3100",
+        "href": "https://www.dpreview.com/products/nikon/slrs/nikon_d3100"
+      },
+      {
+        "label": "Canon PowerShot SX130 IS",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_sx130is"
+      },
+      {
+        "label": "Canon PowerShot SD4500 IS",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_sd4500is"
+      },
+      {
+        "label": "Ricoh CX4",
+        "href": "https://www.dpreview.com/products/ricoh/compacts/ricoh_cx4"
+      },
+      {
+        "label": "Olympus FE-5050",
+        "href": "https://www.dpreview.com/products/olympus/compacts/oly_fe5050"
+      },
+      {
+        "label": "Olympus FE-5040",
+        "href": "https://www.dpreview.com/products/olympus/compacts/oly_fe5040"
+      },
+      {
+        "label": "Olympus FE-5035",
+        "href": "https://www.dpreview.com/products/olympus/compacts/oly_fe5035"
+      },
+      {
+        "label": "Nikon Coolpix S1100pj",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cps1100pj"
+      },
+      {
+        "label": "Fujifilm FinePix Real 3D W3",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_w3"
+      },
+      {
+        "label": "Nikon Coolpix S5100",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cps5100"
+      },
+      {
+        "label": "Casio Exilim EX-Z800",
+        "href": "https://www.dpreview.com/products/casio/compacts/casio_exz800"
+      },
+      {
+        "label": "Casio Exilim EX-S200",
+        "href": "https://www.dpreview.com/products/casio/compacts/casio_exs200"
+      },
+      {
+        "label": "Panasonic Lumix DMC-LX5",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmclx5"
+      },
+      {
+        "label": "Panasonic Lumix DMC-FZ40",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcfz40"
+      },
+      {
+        "label": "Panasonic Lumix DMC-FZ100",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcfz100"
+      },
+      {
+        "label": "Fujifilm FinePix F300EXR",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_f300exr"
+      },
+      {
+        "label": "Fujifilm FinePix Z800EXR",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_z800exr"
+      },
+      {
+        "label": "Panasonic Lumix DMC-FX700",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcfx700"
+      },
+      {
+        "label": "Samsung PL200",
+        "href": "https://www.dpreview.com/products/samsung/compacts/samsung_pl200"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-WX5",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dscwx5"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-TX9",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dsctx9"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-T99",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dsct99"
+      },
+      {
+        "label": "Sony Alpha DSLR-A390",
+        "href": "https://www.dpreview.com/products/sony/slrs/sony_dslra390"
+      },
+      {
+        "label": "Sony Alpha DSLR-A290",
+        "href": "https://www.dpreview.com/products/sony/slrs/sony_dslra290"
+      },
+      {
+        "label": "Casio Exilim EX-H5",
+        "href": "https://www.dpreview.com/products/casio/compacts/casio_exh5"
+      },
+      {
+        "label": "Panasonic Lumix DMC-FX75",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcfx75"
+      },
+      {
+        "label": "Samsung NX5",
+        "href": "https://www.dpreview.com/products/samsung/slrs/samsung_nx5"
+      },
+      {
+        "label": "Sony Alpha NEX-5",
+        "href": "https://www.dpreview.com/products/sony/slrs/sony_nex5"
+      },
+      {
+        "label": "Sony Alpha NEX-3",
+        "href": "https://www.dpreview.com/products/sony/slrs/sony_nex3"
+      },
+      {
+        "label": "Canon PowerShot SD4000 IS",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_sd4000is"
+      },
+      {
+        "label": "Ricoh GXR P10 28-300mm F3.5-5.6 VC",
+        "href": "https://www.dpreview.com/products/ricoh/compacts/ricoh_gxr_p10"
+      },
+      {
+        "label": "Samsung HZ50W",
+        "href": "https://www.dpreview.com/products/samsung/compacts/samsung_hz50w"
+      },
+      {
+        "label": "Pentax Optio M90",
+        "href": "https://www.dpreview.com/products/pentax/compacts/pentax_optiom90"
+      },
+      {
+        "label": "Leica V-Lux 20",
+        "href": "https://www.dpreview.com/products/leica/compacts/leica_vlux20"
+      },
+      {
+        "label": "Pentax 645D",
+        "href": "https://www.dpreview.com/products/pentax/slrs/pentax_645d"
+      },
+      {
+        "label": "Panasonic Lumix DMC-G2",
+        "href": "https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcg2"
+      },
+      {
+        "label": "Panasonic Lumix DMC-G10",
+        "href": "https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcg10"
+      },
+      {
+        "label": "Pentax X90",
+        "href": "https://www.dpreview.com/products/pentax/compacts/pentax_x90"
+      },
+      {
+        "label": "Pentax Optio W90",
+        "href": "https://www.dpreview.com/products/pentax/compacts/pentax_optiow90"
+      },
+      {
+        "label": "Casio Exilim EX-S7",
+        "href": "https://www.dpreview.com/products/casio/compacts/casio_exs7"
+      },
+      {
+        "label": "Casio Exilim EX-Z35",
+        "href": "https://www.dpreview.com/products/casio/compacts/casio_exz35"
+      },
+      {
+        "label": "Sigma SD15",
+        "href": "https://www.dpreview.com/products/sigma/slrs/sigma_sd15"
+      },
+      {
+        "label": "Samsung TL500",
+        "href": "https://www.dpreview.com/products/samsung/compacts/samsung_tl500"
+      },
+      {
+        "label": "Sigma DP1x",
+        "href": "https://www.dpreview.com/products/sigma/compacts/sigma_dp1x"
+      },
+      {
+        "label": "Sigma DP2s",
+        "href": "https://www.dpreview.com/products/sigma/compacts/sigma_dp2s"
+      },
+      {
+        "label": "Samsung AQ100",
+        "href": "https://www.dpreview.com/products/samsung/compacts/samsung_aq100"
+      },
+      {
+        "label": "Samsung TL350",
+        "href": "https://www.dpreview.com/products/samsung/compacts/samsung_tl350"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-TX5",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dsctx5"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-H55",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dsch55"
+      },
+      {
+        "label": "Canon EOS 550D",
+        "href": "https://www.dpreview.com/products/canon/slrs/canon_eos550d"
+      },
+      {
+        "label": "Canon PowerShot SX210 IS",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_sx210is"
+      },
+      {
+        "label": "Canon PowerShot SD3500 IS",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_sd3500is"
+      },
+      {
+        "label": "Canon PowerShot SD1400 IS",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_sd1400is"
+      },
+      {
+        "label": "Canon PowerShot SD1300 IS",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_sd1300is"
+      },
+      {
+        "label": "Olympus PEN E-PL1",
+        "href": "https://www.dpreview.com/products/olympus/slrs/oly_epl1"
+      },
+      {
+        "label": "Nikon Coolpix P100",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cpp100"
+      },
+      {
+        "label": "Nikon Coolpix L110",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cpl110"
+      },
+      {
+        "label": "Nikon Coolpix S8000",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cps8000"
+      },
+      {
+        "label": "Nikon Coolpix S3000",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cps3000"
+      },
+      {
+        "label": "Ricoh CX3",
+        "href": "https://www.dpreview.com/products/ricoh/compacts/ricoh_cx3"
+      },
+      {
+        "label": "Nikon Coolpix S4000",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cps4000"
+      },
+      {
+        "label": "Nikon Coolpix L21",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cpl21"
+      },
+      {
+        "label": "Nikon Coolpix L22",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cpl22"
+      },
+      {
+        "label": "Nikon Coolpix S6000",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cps6000"
+      },
+      {
+        "label": "Olympus Stylus Tough 8010",
+        "href": "https://www.dpreview.com/products/olympus/compacts/oly_stylustough8010"
+      },
+      {
+        "label": "Olympus Stylus Tough 6020",
+        "href": "https://www.dpreview.com/products/olympus/compacts/oly_stylustough6020"
+      },
+      {
+        "label": "Olympus SP-800 UZ",
+        "href": "https://www.dpreview.com/products/olympus/compacts/oly_sp800uz"
+      },
+      {
+        "label": "Olympus SP-600 UZ",
+        "href": "https://www.dpreview.com/products/olympus/compacts/oly_sp600uz"
+      },
+      {
+        "label": "Fujifilm FinePix HS10",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_hs10"
+      },
+      {
+        "label": "Fujifilm FinePix F80EXR",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_f80exr"
+      },
+      {
+        "label": "Fujifilm FinePix Z700EXR",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_z700exr"
+      },
+      {
+        "label": "Fujifilm FinePix XP10",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_xp10"
+      },
+      {
+        "label": "Fujifilm FinePix Z70",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_z70"
+      },
+      {
+        "label": "Fujifilm FinePix S1600",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_s1600"
+      },
+      {
+        "label": "Fujifilm FinePix S1800",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_s1800"
+      },
+      {
+        "label": "Fujifilm FinePix S2500HD",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_s2500hd"
+      },
+      {
+        "label": "Fujifilm FinePix JZ500",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_jz500"
+      },
+      {
+        "label": "Fujifilm FinePix JZ300",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_jz300"
+      },
+      {
+        "label": "Fujifilm FinePix JV100",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_jv100"
+      },
+      {
+        "label": "Fujifilm FinePix JV150",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_jv150"
+      },
+      {
+        "label": "Fujifilm FinePix S2800HD",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_s2800hd"
+      },
+      {
+        "label": "Panasonic Lumix DMC-ZS7",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmczs7"
+      },
+      {
+        "label": "Panasonic Lumix DMC-TS2",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcts2"
+      },
+      {
+        "label": "Panasonic Lumix DMC-ZR3",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmczr3"
+      },
+      {
+        "label": "Panasonic Lumix DMC-ZS5",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmczs5"
+      },
+      {
+        "label": "Panasonic Lumix DMC-FX66",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcfx66"
+      },
+      {
+        "label": "Pentax Optio I-10",
+        "href": "https://www.dpreview.com/products/pentax/compacts/pentax_optioi10"
+      },
+      {
+        "label": "Pentax Optio H90",
+        "href": "https://www.dpreview.com/products/pentax/compacts/pentax_optioh90"
+      },
+      {
+        "label": "Pentax Optio E90",
+        "href": "https://www.dpreview.com/products/pentax/compacts/pentax_optioe90"
+      },
+      {
+        "label": "Panasonic Lumix DMC-TS10",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcts10"
+      },
+      {
+        "label": "Samsung HZ35W",
+        "href": "https://www.dpreview.com/products/samsung/compacts/samsung_hz35w"
+      },
+      {
+        "label": "Samsung HZ30W",
+        "href": "https://www.dpreview.com/products/samsung/compacts/samsung_hz30w"
+      },
+      {
+        "label": "Olympus Stylus Tough 3000",
+        "href": "https://www.dpreview.com/products/olympus/compacts/oly_stylustough3000"
+      },
+      {
+        "label": "Olympus Stylus 9010",
+        "href": "https://www.dpreview.com/products/olympus/compacts/oly_stylus9010"
+      },
+      {
+        "label": "Olympus Stylus 7040",
+        "href": "https://www.dpreview.com/products/olympus/compacts/oly_stylus7040"
+      },
+      {
+        "label": "Olympus Stylus 7030",
+        "href": "https://www.dpreview.com/products/olympus/compacts/oly_stylus7030"
+      },
+      {
+        "label": "Olympus Stylus 5010",
+        "href": "https://www.dpreview.com/products/olympus/compacts/oly_stylus5010"
+      },
+      {
+        "label": "Olympus FE-4040",
+        "href": "https://www.dpreview.com/products/olympus/compacts/oly_fe4040"
+      },
+      {
+        "label": "Olympus FE-47",
+        "href": "https://www.dpreview.com/products/olympus/compacts/oly_fe47"
+      },
+      {
+        "label": "Olympus FE-4030",
+        "href": "https://www.dpreview.com/products/olympus/compacts/oly_fe4030"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-HX5",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dschx5"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-TX7",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dsctx7"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-S2100",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dscs2100"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-S2000",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dscs2000"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-W350",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dscw350"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-W380",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dscw380"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-W320",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dscw320"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-W310",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dscw310"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-W330",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dscw330"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-W370",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dscw370"
+      },
+      {
+        "label": "Casio Exilim EX-FH100",
+        "href": "https://www.dpreview.com/products/casio/compacts/casio_exfh100"
+      },
+      {
+        "label": "Casio Exilim EX-H15",
+        "href": "https://www.dpreview.com/products/casio/compacts/casio_exh15"
+      },
+      {
+        "label": "Casio Exilim EX-Z2000",
+        "href": "https://www.dpreview.com/products/casio/compacts/casio_exz2000"
+      },
+      {
+        "label": "Casio Exilim EX-Z550",
+        "href": "https://www.dpreview.com/products/casio/compacts/casio_exz550"
+      },
+      {
+        "label": "Panasonic Lumix DMC-FH22",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcfs33"
+      },
+      {
+        "label": "Panasonic Lumix DMC-FH20",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcfs30"
+      },
+      {
+        "label": "Panasonic Lumix DMC-FP3",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcfp3"
+      },
+      {
+        "label": "Panasonic Lumix DMC-FP2",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcfp2"
+      },
+      {
+        "label": "Panasonic Lumix DMC-FP1",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcfp1"
+      },
+      {
+        "label": "Panasonic Lumix DMC-FH1",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcfs10"
+      },
+      {
+        "label": "Panasonic Lumix DMC-FH3",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcfs11"
+      },
+      {
+        "label": "Samsung TL210",
+        "href": "https://www.dpreview.com/products/samsung/compacts/samsung_tl210"
+      },
+      {
+        "label": "Samsung TL205",
+        "href": "https://www.dpreview.com/products/samsung/compacts/samsung_tl205"
+      },
+      {
+        "label": "Samsung TL240",
+        "href": "https://www.dpreview.com/products/samsung/compacts/samsung_tl240"
+      },
+      {
+        "label": "Samsung CL80",
+        "href": "https://www.dpreview.com/products/samsung/compacts/samsung_cl80"
+      },
+      {
+        "label": "Samsung ST80",
+        "href": "https://www.dpreview.com/products/samsung/compacts/samsung_st80"
+      },
+      {
+        "label": "Samsung ST600",
+        "href": "https://www.dpreview.com/products/samsung/compacts/samsung_st600"
+      },
+      {
+        "label": "Samsung ST100",
+        "href": "https://www.dpreview.com/products/samsung/compacts/samsung_st100"
+      },
+      {
+        "label": "Sony Alpha DSLR-A450",
+        "href": "https://www.dpreview.com/products/sony/slrs/sony_dslra450"
+      },
+      {
+        "label": "Canon PowerShot A495",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_a495"
+      },
+      {
+        "label": "Canon PowerShot A490",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_a490"
+      },
+      {
+        "label": "Canon PowerShot A3100 IS",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_a3100is"
+      },
+      {
+        "label": "Canon PowerShot A3000 IS",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_a3000is"
+      },
+      {
+        "label": "Kodak EasyShare Z981",
+        "href": "https://www.dpreview.com/products/kodak/compacts/kodak_z981"
+      },
+      {
+        "label": "Kodak EasyShare M575",
+        "href": "https://www.dpreview.com/products/kodak/compacts/kodak_m575"
+      },
+      {
+        "label": "Kodak EasyShare M530",
+        "href": "https://www.dpreview.com/products/kodak/compacts/kodak_m530"
+      },
+      {
+        "label": "Kodak EasyShare M550",
+        "href": "https://www.dpreview.com/products/kodak/compacts/kodak_m550"
+      },
+      {
+        "label": "Samsung NX10",
+        "href": "https://www.dpreview.com/products/samsung/slrs/samsung_nx10"
+      }
+    ]
+  },
+  {
+    "year": 2011,
+    "cameras": [
+      {
+        "label": "Leica V-Lux 3",
+        "href": "https://www.dpreview.com/products/leica/compacts/leica_vlux3"
+      },
+      {
+        "label": "Fujifilm X-S1",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_xs1"
+      },
+      {
+        "label": "Kodak EasyShare Z5010",
+        "href": "https://www.dpreview.com/products/kodak/compacts/kodak_z5010"
+      },
+      {
+        "label": "Olympus SH-21",
+        "href": "https://www.dpreview.com/products/olympus/compacts/oly_sh21"
+      },
+      {
+        "label": "Ricoh CX6",
+        "href": "https://www.dpreview.com/products/ricoh/compacts/ricoh_cx6"
+      },
+      {
+        "label": "Panasonic Lumix DMC-GX1",
+        "href": "https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcgx1"
+      },
+      {
+        "label": "Panasonic Lumix DMC-3D1",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmc3d1"
+      },
+      {
+        "label": "Lytro Light Field 8GB",
+        "href": "https://www.dpreview.com/products/lytro/compacts/lytro_lfc8gb"
+      },
+      {
+        "label": "Lytro Light Field 16GB",
+        "href": "https://www.dpreview.com/products/lytro/compacts/lytro_lfc16gb"
+      },
+      {
+        "label": "Canon EOS-1D X",
+        "href": "https://www.dpreview.com/products/canon/slrs/canon_eos1dx"
+      },
+      {
+        "label": "Nikon 1 V1",
+        "href": "https://www.dpreview.com/products/nikon/slrs/nikon_v1"
+      },
+      {
+        "label": "Nikon 1 J1",
+        "href": "https://www.dpreview.com/products/nikon/slrs/nikon_j1"
+      },
+      {
+        "label": "Canon PowerShot S100",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_s100"
+      },
+      {
+        "label": "Ricoh GR Digital IV",
+        "href": "https://www.dpreview.com/products/ricoh/compacts/ricoh_grdigital4"
+      },
+      {
+        "label": "Canon PowerShot SX40 HS",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_sx40hs"
+      },
+      {
+        "label": "Kodak Easyshare M5370",
+        "href": "https://www.dpreview.com/products/kodak/compacts/kodak_m5370"
+      },
+      {
+        "label": "Pentax Optio RZ18",
+        "href": "https://www.dpreview.com/products/pentax/compacts/pentax_optiorz18"
+      },
+      {
+        "label": "Fujifilm X10",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_x10"
+      },
+      {
+        "label": "Samsung NX200",
+        "href": "https://www.dpreview.com/products/samsung/slrs/samsung_nx200"
+      },
+      {
+        "label": "Samsung WB750",
+        "href": "https://www.dpreview.com/products/samsung/compacts/samsung_wb750"
+      },
+      {
+        "label": "Samsung MV800",
+        "href": "https://www.dpreview.com/products/samsung/compacts/samsung_mv800"
+      },
+      {
+        "label": "Panasonic Lumix DMC-FZ150",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcfz150"
+      },
+      {
+        "label": "Panasonic Lumix DMC-FX90",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcfx90"
+      },
+      {
+        "label": "Nikon Coolpix P7100",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cpp7100"
+      },
+      {
+        "label": "Nikon Coolpix S1200pj",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cps1200pj"
+      },
+      {
+        "label": "Nikon Coolpix AW100",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cpaw100"
+      },
+      {
+        "label": "Nikon Coolpix S100",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cps100"
+      },
+      {
+        "label": "Nikon Coolpix S8200",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cps8200"
+      },
+      {
+        "label": "Nikon Coolpix S6200",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cps6200"
+      },
+      {
+        "label": "Sony Alpha NEX-5N",
+        "href": "https://www.dpreview.com/products/sony/slrs/sony_nex5n"
+      },
+      {
+        "label": "Sony Alpha NEX-7",
+        "href": "https://www.dpreview.com/products/sony/slrs/sony_nex7"
+      },
+      {
+        "label": "Sony SLT-A77",
+        "href": "https://www.dpreview.com/products/sony/slrs/sony_slta77"
+      },
+      {
+        "label": "Sony SLT-A65",
+        "href": "https://www.dpreview.com/products/sony/slrs/sony_slta65"
+      },
+      {
+        "label": "Canon PowerShot SX150 IS",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_sx150is"
+      },
+      {
+        "label": "Canon ELPH 310 HS",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_ixus230hs"
+      },
+      {
+        "label": "Canon IXUS 1100 HS",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_ixus1100hs"
+      },
+      {
+        "label": "Fujifilm FinePix JX370",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_jx370"
+      },
+      {
+        "label": "Fujifilm FinePix F600 EXR",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_f600exr"
+      },
+      {
+        "label": "Ricoh GXR Mount A12",
+        "href": "https://www.dpreview.com/products/ricoh/slrs/ricoh_gxrmounta12"
+      },
+      {
+        "label": "Olympus SP-810 UZ",
+        "href": "https://www.dpreview.com/products/olympus/compacts/oly_sp810uz"
+      },
+      {
+        "label": "Olympus SZ-11",
+        "href": "https://www.dpreview.com/products/olympus/compacts/oly_sz11"
+      },
+      {
+        "label": "Olympus VG-145",
+        "href": "https://www.dpreview.com/products/olympus/compacts/oly_vg145"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-WX30",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dscwx30"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-TX55",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dsctx55"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-W550",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dscw550"
+      },
+      {
+        "label": "Panasonic Lumix DMC-FZ47",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcfz47"
+      },
+      {
+        "label": "Panasonic Lumix DMC-LS5",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcls5"
+      },
+      {
+        "label": "Casio Exilim EX-ZS15",
+        "href": "https://www.dpreview.com/products/casio/compacts/casio_exzs15"
+      },
+      {
+        "label": "Olympus PEN E-P3",
+        "href": "https://www.dpreview.com/products/olympus/slrs/oly_ep3"
+      },
+      {
+        "label": "Olympus PEN E-PL3",
+        "href": "https://www.dpreview.com/products/olympus/slrs/oly_epl3"
+      },
+      {
+        "label": "Olympus PEN E-PM1",
+        "href": "https://www.dpreview.com/products/olympus/slrs/oly_epm1"
+      },
+      {
+        "label": "Pentax Q",
+        "href": "https://www.dpreview.com/products/pentax/slrs/pentax_q"
+      },
+      {
+        "label": "Leica M9-P",
+        "href": "https://www.dpreview.com/products/leica/slrs/leica_m9p"
+      },
+      {
+        "label": "Panasonic Lumix DMC-GF3",
+        "href": "https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcgf3"
+      },
+      {
+        "label": "Ricoh PX",
+        "href": "https://www.dpreview.com/products/ricoh/compacts/ricoh_px"
+      },
+      {
+        "label": "Sony Alpha NEX-C3",
+        "href": "https://www.dpreview.com/products/sony/slrs/sony_nexc3"
+      },
+      {
+        "label": "Sony SLT-A35",
+        "href": "https://www.dpreview.com/products/sony/slrs/sony_slta35"
+      },
+      {
+        "label": "Leica V-Lux 30",
+        "href": "https://www.dpreview.com/products/leica/compacts/leica_vlux30"
+      },
+      {
+        "label": "Panasonic Lumix DMC-G3",
+        "href": "https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcg3"
+      },
+      {
+        "label": "Panasonic Lumix DMC-FH7",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcfh7"
+      },
+      {
+        "label": "Samsung ST93",
+        "href": "https://www.dpreview.com/products/samsung/compacts/samsung_st93"
+      },
+      {
+        "label": "Nikon D5100",
+        "href": "https://www.dpreview.com/products/nikon/slrs/nikon_d5100"
+      },
+      {
+        "label": "Fujifilm FinePix Z900EXR",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_z900exr"
+      },
+      {
+        "label": "Pentax Optio RS1500",
+        "href": "https://www.dpreview.com/products/pentax/compacts/pentax_optiors1500"
+      },
+      {
+        "label": "Olympus TG-810",
+        "href": "https://www.dpreview.com/products/olympus/compacts/oly_tg810"
+      },
+      {
+        "label": "Olympus SZ-30MR",
+        "href": "https://www.dpreview.com/products/olympus/compacts/oly_sz30mr"
+      },
+      {
+        "label": "Pentax Optio S1",
+        "href": "https://www.dpreview.com/products/pentax/compacts/pentax_optios1"
+      },
+      {
+        "label": "Nikon Coolpix P300",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cpp300"
+      },
+      {
+        "label": "Nikon Coolpix L120",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cpl120"
+      },
+      {
+        "label": "Nikon Coolpix P500",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cpp500"
+      },
+      {
+        "label": "Nikon Coolpix S9100",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cps9100"
+      },
+      {
+        "label": "Nikon Coolpix S6100",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cps6100"
+      },
+      {
+        "label": "Nikon Coolpix S4100",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cps4100"
+      },
+      {
+        "label": "Nikon Coolpix S3100",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cps3100"
+      },
+      {
+        "label": "Nikon Coolpix L24",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cpl24"
+      },
+      {
+        "label": "Olympus VG-110",
+        "href": "https://www.dpreview.com/products/olympus/compacts/oly_vg110"
+      },
+      {
+        "label": "Olympus VR-330",
+        "href": "https://www.dpreview.com/products/olympus/compacts/oly_vr330"
+      },
+      {
+        "label": "Olympus VR-320",
+        "href": "https://www.dpreview.com/products/olympus/compacts/oly_vr320"
+      },
+      {
+        "label": "Olympus SZ-10",
+        "href": "https://www.dpreview.com/products/olympus/compacts/oly_sz10"
+      },
+      {
+        "label": "Sigma DP2x",
+        "href": "https://www.dpreview.com/products/sigma/compacts/sigma_dp2x"
+      },
+      {
+        "label": "Canon EOS 600D",
+        "href": "https://www.dpreview.com/products/canon/slrs/canon_eos600d"
+      },
+      {
+        "label": "Canon EOS 1100D",
+        "href": "https://www.dpreview.com/products/canon/slrs/canon_eos1100d"
+      },
+      {
+        "label": "Pentax Optio WG-1",
+        "href": "https://www.dpreview.com/products/pentax/compacts/pentax_optiowg1"
+      },
+      {
+        "label": "Pentax Optio WG-1 GPS",
+        "href": "https://www.dpreview.com/products/pentax/compacts/pentax_optiowg1gps"
+      },
+      {
+        "label": "Canon ELPH 100 HS",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_ixus115hs"
+      },
+      {
+        "label": "Canon ELPH 300 HS",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_ixus220hs"
+      },
+      {
+        "label": "Canon IXUS 310 HS",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_ixus310hs"
+      },
+      {
+        "label": "Canon PowerShot SX230 HS",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_sx230hs"
+      },
+      {
+        "label": "Canon SX220 HS",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_sx220hs"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-HX9V",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dschx9v"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-HX100V",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dschx100v"
+      },
+      {
+        "label": "Ricoh CX5",
+        "href": "https://www.dpreview.com/products/ricoh/compacts/ricoh_cx5"
+      },
+      {
+        "label": "Panasonic Lumix DMC-FX78",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcfx78"
+      },
+      {
+        "label": "Panasonic Lumix DMC-ZS10",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmczs10"
+      },
+      {
+        "label": "Panasonic Lumix DMC-ZS8",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmczs8"
+      },
+      {
+        "label": "Panasonic Lumix DMC-TS3",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcts3"
+      },
+      {
+        "label": "Samsung ST6500",
+        "href": "https://www.dpreview.com/products/samsung/compacts/samsung_st6500"
+      },
+      {
+        "label": "Samsung ST95",
+        "href": "https://www.dpreview.com/products/samsung/compacts/samsung_st95"
+      },
+      {
+        "label": "Samsung ST90",
+        "href": "https://www.dpreview.com/products/samsung/compacts/samsung_st90"
+      },
+      {
+        "label": "Samsung ST65",
+        "href": "https://www.dpreview.com/products/samsung/compacts/samsung_st65"
+      },
+      {
+        "label": "Samsung ST30",
+        "href": "https://www.dpreview.com/products/samsung/compacts/samsung_st30"
+      },
+      {
+        "label": "Olympus PEN E-PL2",
+        "href": "https://www.dpreview.com/products/olympus/slrs/oly_epl2"
+      },
+      {
+        "label": "Olympus XZ-1",
+        "href": "https://www.dpreview.com/products/olympus/compacts/oly_xz1"
+      },
+      {
+        "label": "Olympus SP-610UZ",
+        "href": "https://www.dpreview.com/products/olympus/compacts/oly_sp610uz"
+      },
+      {
+        "label": "Olympus TG-310",
+        "href": "https://www.dpreview.com/products/olympus/compacts/oly_tg310"
+      },
+      {
+        "label": "Olympus TG-610",
+        "href": "https://www.dpreview.com/products/olympus/compacts/oly_tg610"
+      },
+      {
+        "label": "Olympus VG-120",
+        "href": "https://www.dpreview.com/products/olympus/compacts/oly_vg120"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-TX100V",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dsctx100v"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-TX10",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dsctx10"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-HX7V",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dschx7v"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-WX10",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dscwx10"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-WX9",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dscwx9"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-W510",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dscw510"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-W530",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dscw530"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-W560",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dscw560"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-W570",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dscw570"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-T110",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dsct110"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-H70",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dsch70"
+      },
+      {
+        "label": "Panasonic Lumix DMC-FH2",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcfh2"
+      },
+      {
+        "label": "Panasonic Lumix DMC-FH5",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcfh5"
+      },
+      {
+        "label": "Panasonic Lumix DMC-FH25",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcfh25"
+      },
+      {
+        "label": "Panasonic Lumix DMC-FH27",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcfh27"
+      },
+      {
+        "label": "Panasonic Lumix DMC-FP5",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcfp5"
+      },
+      {
+        "label": "Panasonic Lumix DMC-FP7",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcfp7"
+      },
+      {
+        "label": "Panasonic Lumix DMC-S1",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcs1"
+      },
+      {
+        "label": "Panasonic Lumix DMC-S3",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcs3"
+      },
+      {
+        "label": "Fujifilm Finepix Z90",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_z90"
+      },
+      {
+        "label": "Fujifilm FinePix S2950",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_s2950"
+      },
+      {
+        "label": "Fujifilm FinePix S3200",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_s3200"
+      },
+      {
+        "label": "Fujifilm FinePix S4000",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_s4000"
+      },
+      {
+        "label": "Fujifilm FinePix T200",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_t200"
+      },
+      {
+        "label": "Fujifilm FinePix XP30",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_xp30"
+      },
+      {
+        "label": "Fujifilm FinePix JX300",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_jx300"
+      },
+      {
+        "label": "Fujifilm FinePix JX350",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_jx350"
+      },
+      {
+        "label": "Fujifilm FinePix JV200",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_jv200"
+      },
+      {
+        "label": "Fujifilm FinePix HS20 EXR",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_hs20exr"
+      },
+      {
+        "label": "Fujifilm FinePix F500 EXR",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_f500exr"
+      },
+      {
+        "label": "Fujifilm FinePix F550 EXR",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_f550exr"
+      },
+      {
+        "label": "Fujifilm FinePix AX350",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_ax350"
+      },
+      {
+        "label": "Fujifilm FinePix AV250",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_av250"
+      },
+      {
+        "label": "Fujifilm FinePix AV200",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_av200"
+      },
+      {
+        "label": "Samsung ST700",
+        "href": "https://www.dpreview.com/products/samsung/compacts/samsung_st700"
+      },
+      {
+        "label": "Samsung PL170",
+        "href": "https://www.dpreview.com/products/samsung/compacts/samsung_pl170"
+      },
+      {
+        "label": "Samsung PL120",
+        "href": "https://www.dpreview.com/products/samsung/compacts/samsung_pl120"
+      },
+      {
+        "label": "Samsung WB210",
+        "href": "https://www.dpreview.com/products/samsung/compacts/samsung_wb210"
+      },
+      {
+        "label": "Samsung PL210",
+        "href": "https://www.dpreview.com/products/samsung/compacts/samsung_pl210"
+      },
+      {
+        "label": "Casio Exilim EX-H30",
+        "href": "https://www.dpreview.com/products/casio/compacts/casio_exh30"
+      },
+      {
+        "label": "Casio Exilim EX-ZR100",
+        "href": "https://www.dpreview.com/products/casio/compacts/casio_exzr100"
+      },
+      {
+        "label": "Casio Exilim EX-ZS10",
+        "href": "https://www.dpreview.com/products/casio/compacts/casio_exzs10"
+      },
+      {
+        "label": "Casio Exilim EX-ZS5",
+        "href": "https://www.dpreview.com/products/casio/compacts/casio_exzs5"
+      },
+      {
+        "label": "Casio Exilim TRYX",
+        "href": "https://www.dpreview.com/products/casio/compacts/casio_tryx"
+      },
+      {
+        "label": "Canon PowerShot A2200",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_a2200"
+      },
+      {
+        "label": "Canon PowerShot A1200",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_a1200"
+      },
+      {
+        "label": "Canon PowerShot A3300 IS",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_a3300is"
+      },
+      {
+        "label": "Canon PowerShot A3200 IS",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_a3200is"
+      },
+      {
+        "label": "Canon PowerShot A800",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_a800"
+      },
+      {
+        "label": "Fujifilm FinePix T300",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_t300"
+      },
+      {
+        "label": "Samsung SH100",
+        "href": "https://www.dpreview.com/products/samsung/compacts/samsung_sh100"
+      },
+      {
+        "label": "Kodak EasyShare Touch",
+        "href": "https://www.dpreview.com/products/kodak/compacts/kodak_touch"
+      },
+      {
+        "label": "Kodak EasyShare Sport",
+        "href": "https://www.dpreview.com/products/kodak/compacts/kodak_sport"
+      },
+      {
+        "label": "Kodak EasyShare Mini",
+        "href": "https://www.dpreview.com/products/kodak/compacts/kodak_mini"
+      },
+      {
+        "label": "Kodak EasyShare Z990",
+        "href": "https://www.dpreview.com/products/kodak/compacts/kodak_z990"
+      }
+    ]
+  },
+  {
+    "year": 2012,
+    "cameras": [
+      {
+        "label": "Nikon D5200",
+        "href": "https://www.dpreview.com/products/nikon/slrs/nikon_d5200"
+      },
+      {
+        "label": "Nikon 1 V2",
+        "href": "https://www.dpreview.com/products/nikon/slrs/nikon_v2"
+      },
+      {
+        "label": "Casio Exilim EX-ZR1000",
+        "href": "https://www.dpreview.com/products/casio/compacts/casio_exzr1000"
+      },
+      {
+        "label": "Olympus PEN E-PL5",
+        "href": "https://www.dpreview.com/products/olympus/slrs/oly_epl5"
+      },
+      {
+        "label": "Olympus PEN E-PM2",
+        "href": "https://www.dpreview.com/products/olympus/slrs/oly_epm2"
+      },
+      {
+        "label": "Panasonic Lumix DMC-GH3",
+        "href": "https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcgh3"
+      },
+      {
+        "label": "Canon EOS 6D",
+        "href": "https://www.dpreview.com/products/canon/slrs/canon_eos6d"
+      },
+      {
+        "label": "Canon PowerShot G15",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_g15"
+      },
+      {
+        "label": "Fujifilm XF1",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_xf1"
+      },
+      {
+        "label": "Olympus XZ-2 iHS",
+        "href": "https://www.dpreview.com/products/olympus/compacts/oly_xz2"
+      },
+      {
+        "label": "Canon PowerShot SX50 HS",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_sx50hs"
+      },
+      {
+        "label": "Canon PowerShot S110",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_s110"
+      },
+      {
+        "label": "Leica M Typ 240",
+        "href": "https://www.dpreview.com/products/leica/slrs/leica_m240"
+      },
+      {
+        "label": "Leica M-E Typ 220",
+        "href": "https://www.dpreview.com/products/leica/slrs/leica_me220"
+      },
+      {
+        "label": "Leica D-Lux 6",
+        "href": "https://www.dpreview.com/products/leica/compacts/leica_dlux6"
+      },
+      {
+        "label": "Leica V-Lux 4",
+        "href": "https://www.dpreview.com/products/leica/compacts/leica_vlux4"
+      },
+      {
+        "label": "Nikon D600",
+        "href": "https://www.dpreview.com/products/nikon/slrs/nikon_d600"
+      },
+      {
+        "label": "Sony Alpha NEX-6",
+        "href": "https://www.dpreview.com/products/sony/slrs/sony_nex6"
+      },
+      {
+        "label": "Sony Alpha a99",
+        "href": "https://www.dpreview.com/products/sony/slrs/sony_slta99"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-RX1",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dscrx1"
+      },
+      {
+        "label": "Pentax K-5 II",
+        "href": "https://www.dpreview.com/products/pentax/slrs/pentax_k5ii"
+      },
+      {
+        "label": "Pentax Q10",
+        "href": "https://www.dpreview.com/products/pentax/slrs/pentax_q10"
+      },
+      {
+        "label": "Pentax K-5 IIs",
+        "href": "https://www.dpreview.com/products/pentax/slrs/pentax_k5iis"
+      },
+      {
+        "label": "Fujifilm X-E1",
+        "href": "https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xe1"
+      },
+      {
+        "label": "Sony Alpha NEX-5R",
+        "href": "https://www.dpreview.com/products/sony/slrs/sony_nex5r"
+      },
+      {
+        "label": "Samsung Galaxy Camera 4G",
+        "href": "https://www.dpreview.com/products/samsung/compacts/samsung_galaxycamera4g"
+      },
+      {
+        "label": "Samsung Galaxy Camera 3G",
+        "href": "https://www.dpreview.com/products/samsung/compacts/samsung_galaxycamera3g"
+      },
+      {
+        "label": "Nikon Coolpix P7700",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cpp7700"
+      },
+      {
+        "label": "Nikon Coolpix S800c",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cps800c"
+      },
+      {
+        "label": "Nikon Coolpix S01",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cps01"
+      },
+      {
+        "label": "Pentax X-5",
+        "href": "https://www.dpreview.com/products/pentax/compacts/pentax_x5"
+      },
+      {
+        "label": "Nikon Coolpix S6400",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cps6400"
+      },
+      {
+        "label": "Canon PowerShot SX160 IS",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_sx160is"
+      },
+      {
+        "label": "Canon PowerShot SX500 IS",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_sx500is"
+      },
+      {
+        "label": "Olympus VH-515",
+        "href": "https://www.dpreview.com/products/olympus/compacts/oly_vh515"
+      },
+      {
+        "label": "Olympus VH-410",
+        "href": "https://www.dpreview.com/products/olympus/compacts/oly_vh410"
+      },
+      {
+        "label": "Olympus Stylus SP-820UZ",
+        "href": "https://www.dpreview.com/products/olympus/compacts/oly_sp820uz"
+      },
+      {
+        "label": "Nikon 1 J2",
+        "href": "https://www.dpreview.com/products/nikon/slrs/nikon_j2"
+      },
+      {
+        "label": "Nikon Coolpix L610",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cpl610"
+      },
+      {
+        "label": "Fujifilm FinePix F800EXR",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_f800exr"
+      },
+      {
+        "label": "Canon EOS M",
+        "href": "https://www.dpreview.com/products/canon/slrs/canon_eosm"
+      },
+      {
+        "label": "Panasonic Lumix DMC-LX7",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmclx7"
+      },
+      {
+        "label": "Panasonic Lumix DMC-G5",
+        "href": "https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcg5"
+      },
+      {
+        "label": "Panasonic Lumix DMC-FZ200",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcfz200"
+      },
+      {
+        "label": "Panasonic Lumix DMC-FZ60",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcfz60"
+      },
+      {
+        "label": "Panasonic Lumix DMC-LZ20",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmclz20"
+      },
+      {
+        "label": "Panasonic Lumix DMC-SZ5",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcsz5"
+      },
+      {
+        "label": "Samsung EX2F",
+        "href": "https://www.dpreview.com/products/samsung/compacts/samsung_ex2f"
+      },
+      {
+        "label": "Canon EOS Rebel T4i",
+        "href": "https://www.dpreview.com/products/canon/slrs/canon_eos650d"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-RX100",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dscrx100"
+      },
+      {
+        "label": "Casio Exilim EX-ZR300",
+        "href": "https://www.dpreview.com/products/casio/compacts/casio_exzr300"
+      },
+      {
+        "label": "Pentax K-30",
+        "href": "https://www.dpreview.com/products/pentax/slrs/pentax_k30"
+      },
+      {
+        "label": "Pentax Optio LS465",
+        "href": "https://www.dpreview.com/products/pentax/compacts/pentax_optiols465"
+      },
+      {
+        "label": "Sony SLT-A37",
+        "href": "https://www.dpreview.com/products/sony/slrs/sony_slta37"
+      },
+      {
+        "label": "Sony Alpha NEX-F3",
+        "href": "https://www.dpreview.com/products/sony/slrs/sony_nexf3"
+      },
+      {
+        "label": "Leica M-Monochrom",
+        "href": "https://www.dpreview.com/products/leica/slrs/leica_mmono"
+      },
+      {
+        "label": "Leica X2",
+        "href": "https://www.dpreview.com/products/leica/compacts/leica_x2"
+      },
+      {
+        "label": "Leica V-Lux 40",
+        "href": "https://www.dpreview.com/products/leica/compacts/leica_vlux40"
+      },
+      {
+        "label": "Olympus Tough TG-1 iHS",
+        "href": "https://www.dpreview.com/products/olympus/compacts/oly_tg1"
+      },
+      {
+        "label": "Samsung NX1000",
+        "href": "https://www.dpreview.com/products/samsung/slrs/samsung_nx1000"
+      },
+      {
+        "label": "Samsung NX210",
+        "href": "https://www.dpreview.com/products/samsung/slrs/samsung_nx210"
+      },
+      {
+        "label": "Samsung NX20",
+        "href": "https://www.dpreview.com/products/samsung/slrs/samsung_nx20"
+      },
+      {
+        "label": "Nikon D3200",
+        "href": "https://www.dpreview.com/products/nikon/slrs/nikon_d3200"
+      },
+      {
+        "label": "Canon EOS-1D C",
+        "href": "https://www.dpreview.com/products/canon/slrs/canon_eos1dc"
+      },
+      {
+        "label": "Canon EOS 60Da",
+        "href": "https://www.dpreview.com/products/canon/slrs/canon_eos60da"
+      },
+      {
+        "label": "Panasonic Lumix DMC-GF5",
+        "href": "https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcgf5"
+      },
+      {
+        "label": "Sony SLT-A57",
+        "href": "https://www.dpreview.com/products/sony/slrs/sony_slta57"
+      },
+      {
+        "label": "Canon EOS 5D Mark III",
+        "href": "https://www.dpreview.com/products/canon/slrs/canon_eos5dmkiii"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-H90",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dsch90"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-HX200V",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dschx200v"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-HX30V",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dschx30v"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-HX20V",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dschx20v"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-HX10V",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dschx10v"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-WX150",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dscwx150"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-W690",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dscw690"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-TX66",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dsctx66"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-TX20",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dsctx20"
+      },
+      {
+        "label": "Olympus OM-D E-M5",
+        "href": "https://www.dpreview.com/products/olympus/slrs/oly_em5"
+      },
+      {
+        "label": "Olympus SZ-31MR iHS",
+        "href": "https://www.dpreview.com/products/olympus/compacts/oly_sz31mr"
+      },
+      {
+        "label": "Olympus TG-820 iHS",
+        "href": "https://www.dpreview.com/products/olympus/compacts/oly_tg820"
+      },
+      {
+        "label": "Sigma DP1 Merrill",
+        "href": "https://www.dpreview.com/products/sigma/compacts/sigma_dp1m"
+      },
+      {
+        "label": "Sigma DP2 Merrill",
+        "href": "https://www.dpreview.com/products/sigma/compacts/sigma_dp2m"
+      },
+      {
+        "label": "Sigma SD1 Merrill",
+        "href": "https://www.dpreview.com/products/sigma/slrs/sigma_sd1m"
+      },
+      {
+        "label": "Canon PowerShot ELPH 530 HS",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_elph530hs"
+      },
+      {
+        "label": "Canon PowerShot A810",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_a810"
+      },
+      {
+        "label": "Canon PowerShot A1300",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_a1300"
+      },
+      {
+        "label": "Canon PowerShot A2300",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_a2300"
+      },
+      {
+        "label": "Canon PowerShot A2400 IS",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_a2400is"
+      },
+      {
+        "label": "Canon PowerShot A3400 IS",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_a3400is"
+      },
+      {
+        "label": "Canon PowerShot A4000 IS",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_a4000is"
+      },
+      {
+        "label": "Canon PowerShot D20",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_d20"
+      },
+      {
+        "label": "Canon PowerShot SX240 HS",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_sx240hs"
+      },
+      {
+        "label": "Canon PowerShot SX260 HS",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_sx260hs"
+      },
+      {
+        "label": "Nikon D800",
+        "href": "https://www.dpreview.com/products/nikon/slrs/nikon_d800"
+      },
+      {
+        "label": "Nikon D800E",
+        "href": "https://www.dpreview.com/products/nikon/slrs/nikon_d800e"
+      },
+      {
+        "label": "Pentax Optio WG-2",
+        "href": "https://www.dpreview.com/products/pentax/compacts/pentax_optiowg2"
+      },
+      {
+        "label": "Pentax Optio WG-2 GPS",
+        "href": "https://www.dpreview.com/products/pentax/compacts/pentax_optiowg2gps"
+      },
+      {
+        "label": "Ricoh GXR A16 24-85mm F3.5-5.5",
+        "href": "https://www.dpreview.com/products/ricoh/slrs/ricoh_gxra16_24-85"
+      },
+      {
+        "label": "Pentax K-01",
+        "href": "https://www.dpreview.com/products/pentax/slrs/pentax_k01"
+      },
+      {
+        "label": "Nikon Coolpix P310",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cpp310"
+      },
+      {
+        "label": "Nikon Coolpix P510",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cpp510"
+      },
+      {
+        "label": "Nikon Coolpix L810",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cpl810"
+      },
+      {
+        "label": "Nikon Coolpix L26",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cpl26"
+      },
+      {
+        "label": "Nikon Coolpix S30",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cps30"
+      },
+      {
+        "label": "Nikon Coolpix S3300",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cps3300"
+      },
+      {
+        "label": "Nikon Coolpix S4300",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cps4300"
+      },
+      {
+        "label": "Nikon Coolpix S6300",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cps6300"
+      },
+      {
+        "label": "Nikon Coolpix S9300",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cps9300"
+      },
+      {
+        "label": "Panasonic Lumix DMC-ZS20",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmczs20"
+      },
+      {
+        "label": "Panasonic Lumix DMC-TS20",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcts20"
+      },
+      {
+        "label": "Panasonic Lumix DMC-TS4",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcts4"
+      },
+      {
+        "label": "Panasonic Lumix DMC-ZS15",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmczs15"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-TX200V",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dsctx200v"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-WX50",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dscwx50"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-WX70",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dscwx70"
+      },
+      {
+        "label": "Pentax Optio VS20",
+        "href": "https://www.dpreview.com/products/pentax/compacts/pentax_optiovs20"
+      },
+      {
+        "label": "Kodak Pixpro S-1",
+        "href": "https://www.dpreview.com/products/kodak/slrs/kodak_s1"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-W610",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dscw610"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-W620",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dscw620"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-W650",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dscw650"
+      },
+      {
+        "label": "Olympus VR-340",
+        "href": "https://www.dpreview.com/products/olympus/compacts/oly_vr340"
+      },
+      {
+        "label": "Olympus VG-160",
+        "href": "https://www.dpreview.com/products/olympus/compacts/oly_vg160"
+      },
+      {
+        "label": "Olympus TG-320",
+        "href": "https://www.dpreview.com/products/olympus/compacts/oly_tg320"
+      },
+      {
+        "label": "Olympus SZ-12",
+        "href": "https://www.dpreview.com/products/olympus/compacts/oly_sz12"
+      },
+      {
+        "label": "Olympus SP-620 UZ",
+        "href": "https://www.dpreview.com/products/olympus/compacts/oly_sp620uz"
+      },
+      {
+        "label": "Kodak EasyShare M750",
+        "href": "https://www.dpreview.com/products/kodak/compacts/kodak_m750"
+      },
+      {
+        "label": "Kodak EasyShare Z5120",
+        "href": "https://www.dpreview.com/products/kodak/compacts/kodak_z5120"
+      },
+      {
+        "label": "Kodak EasyShare C135",
+        "href": "https://www.dpreview.com/products/kodak/compacts/kodak_c135"
+      },
+      {
+        "label": "Casio Exilim EX-ZS150",
+        "href": "https://www.dpreview.com/products/casio/compacts/casio_exzs150"
+      },
+      {
+        "label": "Casio Exilim EX-ZS20",
+        "href": "https://www.dpreview.com/products/casio/compacts/casio_exzs20"
+      },
+      {
+        "label": "Casio Exilim EX-ZS6",
+        "href": "https://www.dpreview.com/products/casio/compacts/casio_exzs6"
+      },
+      {
+        "label": "Casio Exilim EX-ZS12",
+        "href": "https://www.dpreview.com/products/casio/compacts/casio_exzs12"
+      },
+      {
+        "label": "Canon PowerShot G1 X",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_g1x"
+      },
+      {
+        "label": "Fujifilm X-Pro1",
+        "href": "https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xpro1"
+      },
+      {
+        "label": "Canon ELPH 520 HS",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_ixus500hs"
+      },
+      {
+        "label": "Panasonic Lumix DMC-SZ7",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcsz7"
+      },
+      {
+        "label": "Panasonic Lumix DMC-SZ1",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcsz1"
+      },
+      {
+        "label": "Panasonic Lumix DMC-FH8",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcfh8"
+      },
+      {
+        "label": "Panasonic Lumix DMC-FH6",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcfh6"
+      },
+      {
+        "label": "Panasonic Lumix DMC-S2",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcs2"
+      },
+      {
+        "label": "Samsung WB850F",
+        "href": "https://www.dpreview.com/products/samsung/compacts/samsung_wb850f"
+      },
+      {
+        "label": "Samsung WB150F",
+        "href": "https://www.dpreview.com/products/samsung/compacts/samsung_wb150f"
+      },
+      {
+        "label": "Samsung ST76",
+        "href": "https://www.dpreview.com/products/samsung/compacts/samsung_st76"
+      },
+      {
+        "label": "Samsung ST200F",
+        "href": "https://www.dpreview.com/products/samsung/compacts/samsung_st200f"
+      },
+      {
+        "label": "Samsung ST66",
+        "href": "https://www.dpreview.com/products/samsung/compacts/samsung_st66"
+      },
+      {
+        "label": "Casio Exilim EX-ZR15",
+        "href": "https://www.dpreview.com/products/casio/compacts/casio_exzr15"
+      },
+      {
+        "label": "Nikon D4",
+        "href": "https://www.dpreview.com/products/nikon/slrs/nikon_d4"
+      },
+      {
+        "label": "Fujifilm FinePix XP150",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_xp150"
+      },
+      {
+        "label": "Fujifilm FinePix XP50",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_xp50"
+      },
+      {
+        "label": "Fujifilm FinePix Z1000EXR",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_z1000exr"
+      },
+      {
+        "label": "Fujifilm FinePix T400",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_t400"
+      },
+      {
+        "label": "Fujifilm FinePix SL300",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_sl300"
+      },
+      {
+        "label": "Fujifilm FinePix SL240",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_sl240"
+      },
+      {
+        "label": "Fujifilm FinePix S4500",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_s4500"
+      },
+      {
+        "label": "Fujifilm FinePix S4200",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_s4200"
+      },
+      {
+        "label": "Fujifilm FinePix JZ200",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_jz200"
+      },
+      {
+        "label": "Fujifilm FinePix JZ100",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_jz100"
+      },
+      {
+        "label": "Fujifilm FinePix JX550",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_jx550"
+      },
+      {
+        "label": "Fujifilm FinePix JX500",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_jx500"
+      },
+      {
+        "label": "Fujifilm FinePix F770EXR",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_f770exr"
+      },
+      {
+        "label": "Fujifilm FinePix F660EXR",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_f660exr"
+      },
+      {
+        "label": "Fujifilm FinePix F750EXR",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_f750exr"
+      },
+      {
+        "label": "Fujifilm FinePix Z110",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_z110"
+      },
+      {
+        "label": "Fujifilm FinePix HS30EXR",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_hs30exr"
+      },
+      {
+        "label": "Samsung DV300F",
+        "href": "https://www.dpreview.com/products/samsung/compacts/samsung_dv300f"
+      }
+    ]
+  },
+  {
+    "year": 2013,
+    "cameras": [
+      {
+        "label": "Casio Exilim EX-10",
+        "href": "https://www.dpreview.com/products/casio/compacts/casio_ex10"
+      },
+      {
+        "label": "Nikon Df",
+        "href": "https://www.dpreview.com/products/nikon/slrs/nikon_df"
+      },
+      {
+        "label": "Olympus Stylus 1",
+        "href": "https://www.dpreview.com/products/olympus/compacts/oly_stylus1"
+      },
+      {
+        "label": "Fujifilm X-E2",
+        "href": "https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xe2"
+      },
+      {
+        "label": "Fujifilm XQ1",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_xq1"
+      },
+      {
+        "label": "Nikon D5300",
+        "href": "https://www.dpreview.com/products/nikon/slrs/nikon_d5300"
+      },
+      {
+        "label": "Panasonic Lumix DMC-GM1",
+        "href": "https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcgm1"
+      },
+      {
+        "label": "Sony a7R",
+        "href": "https://www.dpreview.com/products/sony/slrs/sony_a7r"
+      },
+      {
+        "label": "Sony a7",
+        "href": "https://www.dpreview.com/products/sony/slrs/sony_a7"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-RX10",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dscrx10"
+      },
+      {
+        "label": "Nikon D610",
+        "href": "https://www.dpreview.com/products/nikon/slrs/nikon_d610"
+      },
+      {
+        "label": "Pentax K-3",
+        "href": "https://www.dpreview.com/products/pentax/slrs/pentax_k3"
+      },
+      {
+        "label": "Nikon 1 AW1",
+        "href": "https://www.dpreview.com/products/nikon/slrs/nikon_aw1"
+      },
+      {
+        "label": "Fujifilm X-A1",
+        "href": "https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xa1"
+      },
+      {
+        "label": "Olympus OM-D E-M1",
+        "href": "https://www.dpreview.com/products/olympus/slrs/oly_em1"
+      },
+      {
+        "label": "Leica C (Typ112)",
+        "href": "https://www.dpreview.com/products/leica/compacts/leica_c112"
+      },
+      {
+        "label": "Nikon Coolpix P7800",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cpp7800"
+      },
+      {
+        "label": "Nikon Coolpix S02",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cps02"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-QX10",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dscqx10"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-QX100",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dscqx100"
+      },
+      {
+        "label": "Sony Alpha a3000",
+        "href": "https://www.dpreview.com/products/sony/slrs/sony_a3000"
+      },
+      {
+        "label": "Sony Alpha NEX-5T",
+        "href": "https://www.dpreview.com/products/sony/slrs/sony_nex5t"
+      },
+      {
+        "label": "Canon PowerShot G16",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_g16"
+      },
+      {
+        "label": "Canon PowerShot N Facebook ready",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_nfr"
+      },
+      {
+        "label": "Canon PowerShot S120",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_s120"
+      },
+      {
+        "label": "Canon PowerShot SX510 HS",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_sx510hs"
+      },
+      {
+        "label": "Canon PowerShot SX170 IS",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_sx170is"
+      },
+      {
+        "label": "Casio Exilim EX-ZR800",
+        "href": "https://www.dpreview.com/products/casio/compacts/casio_exzr800"
+      },
+      {
+        "label": "Panasonic Lumix DMC-GX7",
+        "href": "https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcgx7"
+      },
+      {
+        "label": "Panasonic Lumix DMC-FZ70",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcfz70"
+      },
+      {
+        "label": "Canon EOS 70D",
+        "href": "https://www.dpreview.com/products/canon/slrs/canon_eos70d"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-RX1R",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dscrx1r"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-RX100 II",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dscrx100m2"
+      },
+      {
+        "label": "Fujifilm X-M1",
+        "href": "https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xm1"
+      },
+      {
+        "label": "Samsung Galaxy NX",
+        "href": "https://www.dpreview.com/products/samsung/slrs/samsung_galaxynx"
+      },
+      {
+        "label": "Pentax K-50",
+        "href": "https://www.dpreview.com/products/pentax/slrs/pentax_k50"
+      },
+      {
+        "label": "Pentax Q7",
+        "href": "https://www.dpreview.com/products/pentax/slrs/pentax_q7"
+      },
+      {
+        "label": "Pentax K-500",
+        "href": "https://www.dpreview.com/products/pentax/slrs/pentax_k500"
+      },
+      {
+        "label": "Leica X Vario",
+        "href": "https://www.dpreview.com/products/leica/compacts/leica_xvario"
+      },
+      {
+        "label": "Pentax Efina",
+        "href": "https://www.dpreview.com/products/pentax/compacts/pentax_efina"
+      },
+      {
+        "label": "Olympus PEN E-P5",
+        "href": "https://www.dpreview.com/products/olympus/slrs/oly_ep5"
+      },
+      {
+        "label": "Olympus PEN E-PL6",
+        "href": "https://www.dpreview.com/products/olympus/slrs/oly_epl6"
+      },
+      {
+        "label": "Samsung NX2000",
+        "href": "https://www.dpreview.com/products/samsung/slrs/samsung_nx2000"
+      },
+      {
+        "label": "Panasonic Lumix DMC-G6",
+        "href": "https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcg6"
+      },
+      {
+        "label": "Panasonic Lumix DMC-LF1",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmclf1"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-HX50V",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dschx50v"
+      },
+      {
+        "label": "Ricoh GR",
+        "href": "https://www.dpreview.com/products/ricoh/compacts/ricoh_gr"
+      },
+      {
+        "label": "Samsung NX1100",
+        "href": "https://www.dpreview.com/products/samsung/slrs/samsung_nx1100"
+      },
+      {
+        "label": "Panasonic Lumix DMC-GF6",
+        "href": "https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcgf6"
+      },
+      {
+        "label": "Fujifilm FinePix XP200",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_xp200"
+      },
+      {
+        "label": "Fujifilm FinePix S8400W",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_s8400w"
+      },
+      {
+        "label": "Canon EOS Rebel SL1",
+        "href": "https://www.dpreview.com/products/canon/slrs/canon_eos100d"
+      },
+      {
+        "label": "Canon EOS 700D",
+        "href": "https://www.dpreview.com/products/canon/slrs/canon_eos700d"
+      },
+      {
+        "label": "Canon PowerShot SX280 HS",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_sx280hs"
+      },
+      {
+        "label": "Canon PowerShot SX270 HS",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_sx270hs"
+      },
+      {
+        "label": "Nikon Coolpix A",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cpa"
+      },
+      {
+        "label": "Nikon Coolpix P330",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cpp330"
+      },
+      {
+        "label": "Nikon Coolpix L320",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cpl320"
+      },
+      {
+        "label": "Nikon D7100",
+        "href": "https://www.dpreview.com/products/nikon/slrs/nikon_d7100"
+      },
+      {
+        "label": "Nikon Coolpix S3500",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cps3500"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-HX300",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dschx300"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-WX300",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dscwx300"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-TX30",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dsctx30"
+      },
+      {
+        "label": "Sony Alpha NEX-3N",
+        "href": "https://www.dpreview.com/products/sony/slrs/sony_nex3n"
+      },
+      {
+        "label": "Sony SLT-A58",
+        "href": "https://www.dpreview.com/products/sony/slrs/sony_slta58"
+      },
+      {
+        "label": "Samsung Galaxy Camera (Wi-Fi)",
+        "href": "https://www.dpreview.com/products/samsung/compacts/samsung_galaxycamerawifi"
+      },
+      {
+        "label": "Fujifilm FinePix F900EXR",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_f900exr"
+      },
+      {
+        "label": "Fujifilm FinePix S4800",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_s4800"
+      },
+      {
+        "label": "Olympus Stylus XZ-10",
+        "href": "https://www.dpreview.com/products/olympus/compacts/oly_xz-10"
+      },
+      {
+        "label": "Canon ELPH 115 IS",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_elph115is"
+      },
+      {
+        "label": "Canon PowerShot ELPH 330 HS",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_elph330hs"
+      },
+      {
+        "label": "Canon PowerShot A2500",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_a2500"
+      },
+      {
+        "label": "Nikon Coolpix AW110",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cpaw110"
+      },
+      {
+        "label": "Nikon Coolpix S9500",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cps9500"
+      },
+      {
+        "label": "Nikon Coolpix S5200",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cps5200"
+      },
+      {
+        "label": "Nikon Coolpix S31",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cps31"
+      },
+      {
+        "label": "Nikon Coolpix L28",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cpl28"
+      },
+      {
+        "label": "Nikon Coolpix L820",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cpl820"
+      },
+      {
+        "label": "Nikon Coolpix P520",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cpp520"
+      },
+      {
+        "label": "Pentax WG-3 GPS",
+        "href": "https://www.dpreview.com/products/pentax/compacts/pentax_wg3gps"
+      },
+      {
+        "label": "Pentax WG-3",
+        "href": "https://www.dpreview.com/products/pentax/compacts/pentax_wg3"
+      },
+      {
+        "label": "Pentax WG-10",
+        "href": "https://www.dpreview.com/products/pentax/compacts/pentax_wg10"
+      },
+      {
+        "label": "Casio Exilim EX-ZR700",
+        "href": "https://www.dpreview.com/products/casio/compacts/casio_exzr700"
+      },
+      {
+        "label": "Casio Exilim EX-ZR400",
+        "href": "https://www.dpreview.com/products/casio/compacts/casio_exzr400"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-WX80",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dscwx80"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-TF1",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dsctf1"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-H200",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dsch200"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-W730",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dscw730"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-W710",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dscw710"
+      },
+      {
+        "label": "Nikon 1 S1",
+        "href": "https://www.dpreview.com/products/nikon/slrs/nikon_s1"
+      },
+      {
+        "label": "Nikon 1 J3",
+        "href": "https://www.dpreview.com/products/nikon/slrs/nikon_j3"
+      },
+      {
+        "label": "Nikon Coolpix S6500",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cps6500"
+      },
+      {
+        "label": "Olympus Tough TG-2 iHS",
+        "href": "https://www.dpreview.com/products/olympus/compacts/oly_tg2"
+      },
+      {
+        "label": "Olympus TG-830 iHS",
+        "href": "https://www.dpreview.com/products/olympus/compacts/oly_tg830"
+      },
+      {
+        "label": "Olympus SH-50",
+        "href": "https://www.dpreview.com/products/olympus/compacts/oly_sh50"
+      },
+      {
+        "label": "Olympus SZ-16 iHS",
+        "href": "https://www.dpreview.com/products/olympus/compacts/oly_sz16"
+      },
+      {
+        "label": "Olympus SZ-15",
+        "href": "https://www.dpreview.com/products/olympus/compacts/oly_sz15"
+      },
+      {
+        "label": "Sigma DP3 Merrill",
+        "href": "https://www.dpreview.com/products/sigma/compacts/sigma_dp3m"
+      },
+      {
+        "label": "Olympus TG-630 iHS",
+        "href": "https://www.dpreview.com/products/olympus/compacts/oly_tg630"
+      },
+      {
+        "label": "Fujifilm FinePix HS35EXR",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_hs35exr"
+      },
+      {
+        "label": "Canon PowerShot N",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_n"
+      },
+      {
+        "label": "Canon ELPH 130",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_elph130"
+      },
+      {
+        "label": "Canon PowerShot A1400",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_a1400"
+      },
+      {
+        "label": "Canon PowerShot A3500 IS",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_a3500is"
+      },
+      {
+        "label": "Pentax MX-1",
+        "href": "https://www.dpreview.com/products/pentax/compacts/pentax_mx1"
+      },
+      {
+        "label": "Panasonic Lumix DMC-ZS30",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmczs30"
+      },
+      {
+        "label": "Panasonic Lumix DMC-TS5",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcts5"
+      },
+      {
+        "label": "Panasonic Lumix DMC-XS1",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcxs1"
+      },
+      {
+        "label": "Panasonic Lumix DMC-LZ30",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmclz30"
+      },
+      {
+        "label": "Panasonic Lumix DMC-SZ3",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcsz3"
+      },
+      {
+        "label": "Panasonic Lumix DMC-FH10",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcfh10"
+      },
+      {
+        "label": "Panasonic Lumix DMC-F5",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcf5"
+      },
+      {
+        "label": "Panasonic Lumix HX-A100",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_a100"
+      },
+      {
+        "label": "Fujifilm X100S",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_x100s"
+      },
+      {
+        "label": "Fujifilm X20",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_x20"
+      },
+      {
+        "label": "Fujifilm FinePix HS50 EXR",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_hs50exr"
+      },
+      {
+        "label": "Fujifilm FinePix SL1000",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_sl1000"
+      },
+      {
+        "label": "Fujifilm FinePix S8200",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_s8200"
+      },
+      {
+        "label": "Fujifilm FinePix S8500",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_s8500"
+      },
+      {
+        "label": "Fujifilm FinePix XP60",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_xp60"
+      },
+      {
+        "label": "Fujifilm FinePix T500",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_t500"
+      },
+      {
+        "label": "Fujifilm FinePix S8300",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_s8300"
+      },
+      {
+        "label": "Samsung WB800F",
+        "href": "https://www.dpreview.com/products/samsung/compacts/samsung_wb800f"
+      },
+      {
+        "label": "Samsung WB250F",
+        "href": "https://www.dpreview.com/products/samsung/compacts/samsung_wb250f"
+      },
+      {
+        "label": "Samsung WB30F",
+        "href": "https://www.dpreview.com/products/samsung/compacts/samsung_wb30f"
+      },
+      {
+        "label": "Samsung DV150F",
+        "href": "https://www.dpreview.com/products/samsung/compacts/samsung_dv150f"
+      },
+      {
+        "label": "Samsung ST150F",
+        "href": "https://www.dpreview.com/products/samsung/compacts/samsung_st150f"
+      },
+      {
+        "label": "Fujifilm FinePix T550",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_t550"
+      },
+      {
+        "label": "Panasonic Lumix DMC-ZS25",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmczs25"
+      },
+      {
+        "label": "Panasonic Lumix DMC-TS25",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcts25"
+      },
+      {
+        "label": "Samsung NX300",
+        "href": "https://www.dpreview.com/products/samsung/slrs/samsung_nx300"
+      },
+      {
+        "label": "Samsung NX300M",
+        "href": "https://www.dpreview.com/products/samsung/slrs/samsung_nx300m"
+      }
+    ]
+  },
+  {
+    "year": 2014,
+    "cameras": [
+      {
+        "label": "Sony a7 II",
+        "href": "https://www.dpreview.com/products/sony/slrs/sony_a7ii"
+      },
+      {
+        "label": "Ricoh WG-30",
+        "href": "https://www.dpreview.com/products/ricoh/compacts/ricoh_wg30"
+      },
+      {
+        "label": "Ricoh WG-30W",
+        "href": "https://www.dpreview.com/products/ricoh/compacts/ricoh_wg30w"
+      },
+      {
+        "label": "Casio Exilim EX-TR50",
+        "href": "https://www.dpreview.com/products/casio/compacts/casio_extr50"
+      },
+      {
+        "label": "Leica X (Typ 113)",
+        "href": "https://www.dpreview.com/products/leica/compacts/leica_x113"
+      },
+      {
+        "label": "Leica M Edition 60",
+        "href": "https://www.dpreview.com/products/leica/slrs/leica_m_edition_60"
+      },
+      {
+        "label": "Samsung NX1",
+        "href": "https://www.dpreview.com/products/samsung/slrs/samsung_nx1"
+      },
+      {
+        "label": "Panasonic Lumix DMC-LX100",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmclx100"
+      },
+      {
+        "label": "Panasonic Lumix DMC-GM5",
+        "href": "https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcgm5"
+      },
+      {
+        "label": "Canon EOS 7D Mark II",
+        "href": "https://www.dpreview.com/products/canon/slrs/canon_eos7dii"
+      },
+      {
+        "label": "Canon PowerShot G7 X",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_g7x"
+      },
+      {
+        "label": "Canon PowerShot SX60 HS",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_sx60hs"
+      },
+      {
+        "label": "Leica D-Lux (Typ 109)",
+        "href": "https://www.dpreview.com/products/leica/compacts/leica_dlux109"
+      },
+      {
+        "label": "Leica V-Lux (Typ 114)",
+        "href": "https://www.dpreview.com/products/leica/compacts/leica_vlux_typ114"
+      },
+      {
+        "label": "Nikon D750",
+        "href": "https://www.dpreview.com/products/nikon/slrs/nikon_d750"
+      },
+      {
+        "label": "Fujifilm X100T",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_x100t"
+      },
+      {
+        "label": "Ricoh WG-M1",
+        "href": "https://www.dpreview.com/products/ricoh/actioncams/ricoh_wgm1"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-QX30",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dscqx30"
+      },
+      {
+        "label": "Sony Alpha QX1",
+        "href": "https://www.dpreview.com/products/sony/slrs/sony_ilceqx1"
+      },
+      {
+        "label": "Olympus PEN E-PL7",
+        "href": "https://www.dpreview.com/products/olympus/slrs/oly_epl7"
+      },
+      {
+        "label": "Pentax K-S1",
+        "href": "https://www.dpreview.com/products/pentax/slrs/pentax_ks1"
+      },
+      {
+        "label": "Fujifilm X30",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_x30"
+      },
+      {
+        "label": "Leica M-P (Typ 240)",
+        "href": "https://www.dpreview.com/products/leica/slrs/leica_mp_typ240"
+      },
+      {
+        "label": "Sony a5100",
+        "href": "https://www.dpreview.com/products/sony/slrs/sony_a5100"
+      },
+      {
+        "label": "Pentax Q-S1",
+        "href": "https://www.dpreview.com/products/pentax/slrs/pentax_qs1"
+      },
+      {
+        "label": "Canon PowerShot SX520 HS",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_sx520hs"
+      },
+      {
+        "label": "Canon PowerShot SX400 IS",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_sx400is"
+      },
+      {
+        "label": "Pentax XG-1",
+        "href": "https://www.dpreview.com/products/pentax/compacts/pentax_xg1"
+      },
+      {
+        "label": "Nikon D810",
+        "href": "https://www.dpreview.com/products/nikon/slrs/nikon_d810"
+      },
+      {
+        "label": "Panasonic Lumix DMC-FZ1000",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcfz1000"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-RX100 III",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dscrx100m3"
+      },
+      {
+        "label": "Nikon 1 S2",
+        "href": "https://www.dpreview.com/products/nikon/slrs/nikon_s2"
+      },
+      {
+        "label": "Samsung NX3000",
+        "href": "https://www.dpreview.com/products/samsung/slrs/samsung_nx3000"
+      },
+      {
+        "label": "Sony SLT-A77 II",
+        "href": "https://www.dpreview.com/products/sony/slrs/sony_slta77ii"
+      },
+      {
+        "label": "Samsung Galaxy K Zoom",
+        "href": "https://www.dpreview.com/products/samsung/compacts/samsung_galaxykzoom"
+      },
+      {
+        "label": "Leica T (Typ 701)",
+        "href": "https://www.dpreview.com/products/leica/slrs/leica_t701"
+      },
+      {
+        "label": "Lytro Illum 40 Megaray Light Field Camera",
+        "href": "https://www.dpreview.com/products/lytro/compacts/lytro_illum"
+      },
+      {
+        "label": "Pentax 645Z",
+        "href": "https://www.dpreview.com/products/pentax/slrs/pentax_645z"
+      },
+      {
+        "label": "Nikon Coolpix S810c",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cps810c"
+      },
+      {
+        "label": "Nikon 1 J4",
+        "href": "https://www.dpreview.com/products/nikon/slrs/nikon_j4"
+      },
+      {
+        "label": "Sony a7S",
+        "href": "https://www.dpreview.com/products/sony/slrs/sony_a7s"
+      },
+      {
+        "label": "Olympus Tough TG-3",
+        "href": "https://www.dpreview.com/products/olympus/compacts/oly_tg3"
+      },
+      {
+        "label": "Olympus Stylus SH-1",
+        "href": "https://www.dpreview.com/products/olympus/compacts/oly_sh1"
+      },
+      {
+        "label": "Samsung NX mini",
+        "href": "https://www.dpreview.com/products/samsung/slrs/samsung_nxmini"
+      },
+      {
+        "label": "Nikon 1 V3",
+        "href": "https://www.dpreview.com/products/nikon/slrs/nikon_v3"
+      },
+      {
+        "label": "Nikon D4S",
+        "href": "https://www.dpreview.com/products/nikon/slrs/nikon_d4s"
+      },
+      {
+        "label": "Sigma dp2 Quattro",
+        "href": "https://www.dpreview.com/products/sigma/compacts/sigma_dp2q"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-WX350",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dscwx350"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-H400",
+        "href": "https://www.dpreview.com/products/sony/compacts/cybershot_dsch400"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-W800",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dscw800"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-H300",
+        "href": "https://www.dpreview.com/products/sony/compacts/cybershot_dsch300"
+      },
+      {
+        "label": "Sony a6000",
+        "href": "https://www.dpreview.com/products/sony/slrs/sony_a6000"
+      },
+      {
+        "label": "Canon PowerShot G1 X Mark II",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_g1xii"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-HX400V",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dschx400v"
+      },
+      {
+        "label": "Canon EOS 1200D",
+        "href": "https://www.dpreview.com/products/canon/slrs/canon_eos1200d"
+      },
+      {
+        "label": "Canon PowerShot SX700 HS",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_sx700"
+      },
+      {
+        "label": "Canon PowerShot D30",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_d30"
+      },
+      {
+        "label": "Canon PowerShot ELPH 150 IS",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_elph150is"
+      },
+      {
+        "label": "Canon PowerShot ELPH 140 IS",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_elph140is"
+      },
+      {
+        "label": "Canon PowerShot ELPH 135",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_elph135"
+      },
+      {
+        "label": "Canon PowerShot S200",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_s200_2014"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-WX220",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dscwx220"
+      },
+      {
+        "label": "Sigma dp1 Quattro",
+        "href": "https://www.dpreview.com/products/sigma/compacts/sigma_dp1q"
+      },
+      {
+        "label": "Sigma dp3 Quattro",
+        "href": "https://www.dpreview.com/products/sigma/compacts/sigma_dp3q"
+      },
+      {
+        "label": "Nikon Coolpix AW120",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cpaw120"
+      },
+      {
+        "label": "Nikon Coolpix S32",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cps32"
+      },
+      {
+        "label": "Panasonic Lumix DMC-GH4",
+        "href": "https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcgh4"
+      },
+      {
+        "label": "Nikon Coolpix P530",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cpp530"
+      },
+      {
+        "label": "Nikon Coolpix P600",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cpp600"
+      },
+      {
+        "label": "Nikon Coolpix P340",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cpp340"
+      },
+      {
+        "label": "Nikon Coolpix S9700",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cps9700"
+      },
+      {
+        "label": "Casio Exilim EX-100",
+        "href": "https://www.dpreview.com/products/casio/compacts/casio_ex100"
+      },
+      {
+        "label": "Ricoh WG-4",
+        "href": "https://www.dpreview.com/products/ricoh/compacts/ricoh_wg4"
+      },
+      {
+        "label": "Ricoh WG-4 GPS",
+        "href": "https://www.dpreview.com/products/ricoh/compacts/ricoh_wg4gps"
+      },
+      {
+        "label": "Ricoh WG-20",
+        "href": "https://www.dpreview.com/products/ricoh/compacts/ricoh_wg20"
+      },
+      {
+        "label": "Olympus OM-D E-M10",
+        "href": "https://www.dpreview.com/products/olympus/slrs/oly_em10"
+      },
+      {
+        "label": "Olympus Stylus Tough TG-850 iHS",
+        "href": "https://www.dpreview.com/products/olympus/compacts/oly_tg850"
+      },
+      {
+        "label": "Olympus Stylus SP-100",
+        "href": "https://www.dpreview.com/products/olympus/compacts/oly_sp100"
+      },
+      {
+        "label": "Fujifilm X-T1",
+        "href": "https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xt1"
+      },
+      {
+        "label": "Sony Alpha a5000",
+        "href": "https://www.dpreview.com/products/sony/slrs/sony_a5000"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-W830",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dscw830"
+      },
+      {
+        "label": "Nikon D3300",
+        "href": "https://www.dpreview.com/products/nikon/slrs/nikon_d3300"
+      },
+      {
+        "label": "Samsung WB350F",
+        "href": "https://www.dpreview.com/products/samsung/compacts/samsung_wb350f"
+      },
+      {
+        "label": "Samsung WB2200F",
+        "href": "https://www.dpreview.com/products/samsung/compacts/samsung_wb2200f"
+      },
+      {
+        "label": "Nikon Coolpix L830",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_l830"
+      },
+      {
+        "label": "Nikon Coolpix S6800",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cps6800"
+      },
+      {
+        "label": "Nikon Coolpix S5300",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cps5300"
+      },
+      {
+        "label": "Nikon Coolpix S3600",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cps3600"
+      },
+      {
+        "label": "Samsung WB1100F",
+        "href": "https://www.dpreview.com/products/samsung/compacts/samsung_wb1100f"
+      },
+      {
+        "label": "Samsung WB50F",
+        "href": "https://www.dpreview.com/products/samsung/compacts/samsung_wb50f"
+      },
+      {
+        "label": "Samsung WB35F",
+        "href": "https://www.dpreview.com/products/samsung/compacts/samsung_wb35f"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-W810",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dscw810"
+      },
+      {
+        "label": "Kodak Pixpro Astro Zoom AZ651",
+        "href": "https://www.dpreview.com/products/kodak/compacts/kodak_az651"
+      },
+      {
+        "label": "Fujifilm FinePix XP70",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_xp70"
+      },
+      {
+        "label": "Fujifilm FinePix S1",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_s1"
+      },
+      {
+        "label": "Fujifilm FinePix S8600",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_s8600"
+      },
+      {
+        "label": "Fujifilm FinePix S9200",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_s9200"
+      },
+      {
+        "label": "Fujifilm FinePix S9400W",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_s9400w"
+      },
+      {
+        "label": "Panasonic Lumix DMC-ZS35",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmczs35"
+      },
+      {
+        "label": "Panasonic Lumix DMC-ZS40",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmczs40"
+      },
+      {
+        "label": "Panasonic Lumix DMC-SZ8",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcsz8"
+      },
+      {
+        "label": "Panasonic Lumix DMC-LZ40",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmclz40"
+      },
+      {
+        "label": "Canon PowerShot ELPH 340 HS",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_elph340hs"
+      },
+      {
+        "label": "Canon PowerShot N100",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_n100"
+      },
+      {
+        "label": "Canon PowerShot SX600 HS",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_sx600"
+      },
+      {
+        "label": "Samsung NX30",
+        "href": "https://www.dpreview.com/products/samsung/slrs/samsung_nx30"
+      },
+      {
+        "label": "Samsung Galaxy Camera 2",
+        "href": "https://www.dpreview.com/products/samsung/compacts/samsung_galaxycamera_2"
+      }
+    ]
+  },
+  {
+    "year": 2015,
+    "cameras": [
+      {
+        "label": "Leica M (Typ 262)",
+        "href": "https://www.dpreview.com/products/leica/slrs/leica_m_typ262"
+      },
+      {
+        "label": "Sony SLT-A68",
+        "href": "https://www.dpreview.com/products/sony/slrs/sony_slta68"
+      },
+      {
+        "label": "Leica SL (Typ 601)",
+        "href": "https://www.dpreview.com/products/leica/slrs/leica_sl_typ601"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-RX1R II",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dscrx1rii"
+      },
+      {
+        "label": "Canon PowerShot G5 X",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_g5x"
+      },
+      {
+        "label": "Canon PowerShot G9 X",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_g9x"
+      },
+      {
+        "label": "Canon EOS M10",
+        "href": "https://www.dpreview.com/products/canon/slrs/canon_eosm10"
+      },
+      {
+        "label": "Sony a7S II",
+        "href": "https://www.dpreview.com/products/sony/slrs/sony_a7sii"
+      },
+      {
+        "label": "Ricoh Theta S",
+        "href": "https://www.dpreview.com/products/ricoh/compacts/ricoh_theta_s"
+      },
+      {
+        "label": "Olympus OM-D E-M10 II",
+        "href": "https://www.dpreview.com/products/olympus/slrs/oly_em10ii"
+      },
+      {
+        "label": "Fujifilm X-T1 IR",
+        "href": "https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xt1_ir"
+      },
+      {
+        "label": "Panasonic Lumix DMC-GX8",
+        "href": "https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcgx8"
+      },
+      {
+        "label": "Panasonic Lumix DMC-FZ300",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcfz300"
+      },
+      {
+        "label": "Olympus Air A01",
+        "href": "https://www.dpreview.com/products/olympus/slrs/oly_air_a01"
+      },
+      {
+        "label": "Canon PowerShot G3 X",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_g3x"
+      },
+      {
+        "label": "DxO One",
+        "href": "https://www.dpreview.com/products/dxo_labs/compacts/dxo_one"
+      },
+      {
+        "label": "Ricoh GR II",
+        "href": "https://www.dpreview.com/products/ricoh/compacts/ricoh_grii"
+      },
+      {
+        "label": "Leica Q (Typ 116)",
+        "href": "https://www.dpreview.com/products/leica/compacts/leica_q116"
+      },
+      {
+        "label": "Sony a7R II",
+        "href": "https://www.dpreview.com/products/sony/slrs/sony_a7rii"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-RX100 IV",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dscrx100m4"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-RX10 II",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dscrx10ii"
+      },
+      {
+        "label": "Panasonic Lumix DMC-G7",
+        "href": "https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcg7"
+      },
+      {
+        "label": "Fujifilm X-T10",
+        "href": "https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xt10"
+      },
+      {
+        "label": "Leica M Monochrom (Typ 246)",
+        "href": "https://www.dpreview.com/products/leica/compacts/leica_m_monochrom_typ246"
+      },
+      {
+        "label": "Pentax K-3 II",
+        "href": "https://www.dpreview.com/products/pentax/slrs/pentax_k3ii"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-HX90V",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dschx90v"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-WX500",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dscwx500"
+      },
+      {
+        "label": "Olympus Tough TG-4",
+        "href": "https://www.dpreview.com/products/olympus/compacts/oly_tg4"
+      },
+      {
+        "label": "Olympus Stylus 1s",
+        "href": "https://www.dpreview.com/products/olympus/compacts/oly_stylus1s"
+      },
+      {
+        "label": "Canon XC10",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_xc10"
+      },
+      {
+        "label": "Nikon 1 J5",
+        "href": "https://www.dpreview.com/products/nikon/slrs/nikon_j5"
+      },
+      {
+        "label": "Olympus Stylus SH-2",
+        "href": "https://www.dpreview.com/products/olympus/compacts/oly_sh2"
+      },
+      {
+        "label": "Nikon D7200",
+        "href": "https://www.dpreview.com/products/nikon/slrs/nikon_d7200"
+      },
+      {
+        "label": "Nikon Coolpix P900",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cpp900"
+      },
+      {
+        "label": "Nikon Coolpix AW130",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cpaw130"
+      },
+      {
+        "label": "Nikon Coolpix S33",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cps33"
+      },
+      {
+        "label": "Nikon Coolpix P610",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cpp610"
+      },
+      {
+        "label": "Nikon Coolpix L840",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cpl840"
+      },
+      {
+        "label": "Nikon Coolpix S9900",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cps9900"
+      },
+      {
+        "label": "Nikon D810A",
+        "href": "https://www.dpreview.com/products/nikon/slrs/nikon_d810a"
+      },
+      {
+        "label": "Nikon Coolpix S7000",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cps7000"
+      },
+      {
+        "label": "Nikon Coolpix S6900",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cps6900"
+      },
+      {
+        "label": "Sigma dp0 Quattro",
+        "href": "https://www.dpreview.com/products/sigma/compacts/sigma_dp0q"
+      },
+      {
+        "label": "Pentax K-S2",
+        "href": "https://www.dpreview.com/products/pentax/slrs/pentax_ks2"
+      },
+      {
+        "label": "Ricoh WG-5 GPS",
+        "href": "https://www.dpreview.com/products/ricoh/compacts/ricoh_wg5gps"
+      },
+      {
+        "label": "Canon EOS 5DS",
+        "href": "https://www.dpreview.com/products/canon/slrs/canon_eos5ds"
+      },
+      {
+        "label": "Canon EOS 5DS R",
+        "href": "https://www.dpreview.com/products/canon/slrs/canon_eos5dsr"
+      },
+      {
+        "label": "Canon EOS Rebel T6s",
+        "href": "https://www.dpreview.com/products/canon/slrs/canon_eos760d"
+      },
+      {
+        "label": "Canon EOS Rebel T6i",
+        "href": "https://www.dpreview.com/products/canon/slrs/canon_eos750d"
+      },
+      {
+        "label": "Canon PowerShot SX410 IS",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_sx410is"
+      },
+      {
+        "label": "Canon PowerShot ELPH 350 HS",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_elph350hs"
+      },
+      {
+        "label": "Canon EOS M3",
+        "href": "https://www.dpreview.com/products/canon/slrs/canon_eosm3"
+      },
+      {
+        "label": "Olympus OM-D E-M5 II",
+        "href": "https://www.dpreview.com/products/olympus/slrs/oly_em5ii"
+      },
+      {
+        "label": "Olympus Stylus Tough TG-860",
+        "href": "https://www.dpreview.com/products/olympus/compacts/oly_tg860"
+      },
+      {
+        "label": "Samsung NX500",
+        "href": "https://www.dpreview.com/products/samsung/slrs/samsung_nx500"
+      },
+      {
+        "label": "Panasonic Lumix DMC-GF7",
+        "href": "https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcgf7"
+      },
+      {
+        "label": "Fujifilm X-A2",
+        "href": "https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xa2"
+      },
+      {
+        "label": "Fujifilm XQ2",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_xq2"
+      },
+      {
+        "label": "Fujifilm XP80",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_xp80"
+      },
+      {
+        "label": "Fujifilm FinePix S9800",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_s9800"
+      },
+      {
+        "label": "Fujifilm FinePix S9900W",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_s9900w"
+      },
+      {
+        "label": "Nikon Coolpix L31",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cpl31"
+      },
+      {
+        "label": "Nikon Coolpix L32",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cpl32"
+      },
+      {
+        "label": "Nikon Coolpix S3700",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cps3700"
+      },
+      {
+        "label": "Nikon Coolpix S2900",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cps2900"
+      },
+      {
+        "label": "Nikon D5500",
+        "href": "https://www.dpreview.com/products/nikon/slrs/nikon_d5500"
+      },
+      {
+        "label": "Panasonic Lumix DMC-TS6",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcts6"
+      },
+      {
+        "label": "Panasonic Lumix DMC-TS30",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcts30"
+      },
+      {
+        "label": "Panasonic Lumix DMC-SZ10",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcsz10"
+      },
+      {
+        "label": "Panasonic Lumix DMC-ZS45",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmczs45"
+      },
+      {
+        "label": "Panasonic Lumix DMC-ZS50",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmczs50"
+      },
+      {
+        "label": "Canon PowerShot SX530 HS",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_sx530hs"
+      },
+      {
+        "label": "Canon PowerShot SX710 HS",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_sx710hs"
+      },
+      {
+        "label": "Canon PowerShot SX610 HS",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_sx610hs"
+      },
+      {
+        "label": "Canon PowerShot ELPH 170 IS",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_elph170is"
+      },
+      {
+        "label": "Canon PowerShot ELPH 160",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_elph160"
+      },
+      {
+        "label": "Canon IXUS 165",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_ixus165"
+      }
+    ]
+  },
+  {
+    "year": 2016,
+    "cameras": [
+      {
+        "label": "Sony Cyber-shot DSC-HX350",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dschx350"
+      },
+      {
+        "label": "Fujifilm X-A10",
+        "href": "https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xa10"
+      },
+      {
+        "label": "SeaLife DC2000",
+        "href": "https://www.dpreview.com/products/sealife/compacts/sealife_dc2000"
+      },
+      {
+        "label": "Nikon D5600",
+        "href": "https://www.dpreview.com/products/nikon/slrs/nikon_d5600"
+      },
+      {
+        "label": "Leica TL",
+        "href": "https://www.dpreview.com/products/leica/slrs/leica_tl"
+      },
+      {
+        "label": "Sony a6500",
+        "href": "https://www.dpreview.com/products/sony/slrs/sony_a6500"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-RX100 V",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dscrx100m5"
+      },
+      {
+        "label": "Panasonic Lumix DMC-LX10",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmclx10"
+      },
+      {
+        "label": "Olympus PEN E-PL8",
+        "href": "https://www.dpreview.com/products/olympus/slrs/oly_epl8"
+      },
+      {
+        "label": "Panasonic Lumix DMC-FZ2500",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcfz2500"
+      },
+      {
+        "label": "YI M1",
+        "href": "https://www.dpreview.com/products/yi/slrs/yi_m1"
+      },
+      {
+        "label": "Panasonic Lumix DMC-G85",
+        "href": "https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcg85"
+      },
+      {
+        "label": "Olympus OM-D E-M1 Mark II",
+        "href": "https://www.dpreview.com/products/olympus/slrs/olympus_em1ii"
+      },
+      {
+        "label": "Sony a99 II",
+        "href": "https://www.dpreview.com/products/sony/slrs/sony_slta99_ii"
+      },
+      {
+        "label": "Fujifilm GFX 50S",
+        "href": "https://www.dpreview.com/products/fujifilm/slrs/fujifilm_gfx50s"
+      },
+      {
+        "label": "GoPro Hero5 Black",
+        "href": "https://www.dpreview.com/products/gopro/actioncams/gopro_hero5_black"
+      },
+      {
+        "label": "Canon EOS M5",
+        "href": "https://www.dpreview.com/products/canon/slrs/canon_eosm5"
+      },
+      {
+        "label": "Casio Exilim EX-ZR5000",
+        "href": "https://www.dpreview.com/products/casio/compacts/casio_zr5000"
+      },
+      {
+        "label": "Sony FDR-X3000",
+        "href": "https://www.dpreview.com/products/sony/actioncams/sony_fdr_x3000"
+      },
+      {
+        "label": "Sony HDR-AS300",
+        "href": "https://www.dpreview.com/products/sony/actioncams/sony_hdr_as300"
+      },
+      {
+        "label": "DxO One (2016)",
+        "href": "https://www.dpreview.com/products/dxo_labs/compacts/dxo_one_2016"
+      },
+      {
+        "label": "Canon EOS 5D Mark IV",
+        "href": "https://www.dpreview.com/products/canon/slrs/canon_eos5dmkiv"
+      },
+      {
+        "label": "Fujifilm X-A3",
+        "href": "https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xa3"
+      },
+      {
+        "label": "Nikon D3400",
+        "href": "https://www.dpreview.com/products/nikon/slrs/nikon_d3400"
+      },
+      {
+        "label": "Nikon Coolpix W100",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cpw100"
+      },
+      {
+        "label": "Fujifilm X-T2",
+        "href": "https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xt2"
+      },
+      {
+        "label": "Hasselblad X1D",
+        "href": "https://www.dpreview.com/products/hasselblad/slrs/hasselblad_x1d50c"
+      },
+      {
+        "label": "Pentax K-70",
+        "href": "https://www.dpreview.com/products/pentax/slrs/pentax_k70"
+      },
+      {
+        "label": "Canon PowerShot SX620 HS",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_sx620hs"
+      },
+      {
+        "label": "Nikon Coolpix A300",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cpa300"
+      },
+      {
+        "label": "Panasonic Lumix DMC-GX85",
+        "href": "https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcgx85"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-RX10 III",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dscrx10iii"
+      },
+      {
+        "label": "Canon EOS Rebel T6",
+        "href": "https://www.dpreview.com/products/canon/slrs/canon_eos1300d"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-HX80",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dschx80"
+      },
+      {
+        "label": "Nikon Coolpix A900",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cpa900"
+      },
+      {
+        "label": "Nikon Coolpix B500",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cpb500"
+      },
+      {
+        "label": "Nikon Coolpix B700",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cpb700"
+      },
+      {
+        "label": "Sigma sd Quattro",
+        "href": "https://www.dpreview.com/products/sigma/slrs/sigma_sdquattro"
+      },
+      {
+        "label": "Sigma sd Quattro H",
+        "href": "https://www.dpreview.com/products/sigma/slrs/sigma_sdquattroh"
+      },
+      {
+        "label": "Canon EOS 80D",
+        "href": "https://www.dpreview.com/products/canon/slrs/canon_eos80d"
+      },
+      {
+        "label": "Canon PowerShot G7 X Mark II",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_g7xii"
+      },
+      {
+        "label": "Canon PowerShot SX720 HS",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_sx720hs"
+      },
+      {
+        "label": "Pentax K-1",
+        "href": "https://www.dpreview.com/products/pentax/slrs/pentax_k1"
+      },
+      {
+        "label": "Panasonic Lumix DMC-GF8",
+        "href": "https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcgf8"
+      },
+      {
+        "label": "Olympus Stylus SH-3",
+        "href": "https://www.dpreview.com/products/olympus/compacts/oly_sh3"
+      },
+      {
+        "label": "Sony a6300",
+        "href": "https://www.dpreview.com/products/sony/slrs/sony_a6300"
+      },
+      {
+        "label": "Canon EOS-1D X Mark II",
+        "href": "https://www.dpreview.com/products/canon/slrs/canon_eos1dxii"
+      },
+      {
+        "label": "Olympus PEN-F",
+        "href": "https://www.dpreview.com/products/olympus/slrs/olympus_penf"
+      },
+      {
+        "label": "Leica X-U (Typ 113)",
+        "href": "https://www.dpreview.com/products/leica/compacts/leica_x-u_typ113"
+      },
+      {
+        "label": "Fujifilm X70",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_x70"
+      },
+      {
+        "label": "Fujifilm X-Pro2",
+        "href": "https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xpro2"
+      },
+      {
+        "label": "Fujifilm X-E2S",
+        "href": "https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xe2s"
+      },
+      {
+        "label": "Fujifilm XP90",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_xp90"
+      },
+      {
+        "label": "Nikon Coolpix A10",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cpa10"
+      },
+      {
+        "label": "Nikon Coolpix A100",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cpa100"
+      },
+      {
+        "label": "Olympus Stylus Tough TG-870",
+        "href": "https://www.dpreview.com/products/olympus/compacts/olympus_tg870"
+      },
+      {
+        "label": "Panasonic Lumix DMC-ZS100",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmczs100"
+      },
+      {
+        "label": "Panasonic Lumix DMC-ZS60",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmczs60"
+      },
+      {
+        "label": "Canon PowerShot ELPH 360 HS",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_elph360hs"
+      },
+      {
+        "label": "Canon PowerShot ELPH 190 IS",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_elph190is"
+      },
+      {
+        "label": "Canon PowerShot ELPH 180",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_elph180"
+      },
+      {
+        "label": "Canon PowerShot SX540 HS",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_sx540hs"
+      },
+      {
+        "label": "Canon PowerShot SX420 IS",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_sx420is"
+      },
+      {
+        "label": "Nikon D500",
+        "href": "https://www.dpreview.com/products/nikon/slrs/nikon_d500"
+      },
+      {
+        "label": "Nikon D5",
+        "href": "https://www.dpreview.com/products/nikon/slrs/nikon_d5"
+      }
+    ]
+  },
+  {
+    "year": 2017,
+    "cameras": [
+      {
+        "label": "Leica CL",
+        "href": "https://www.dpreview.com/products/leica/slrs/leica_cl"
+      },
+      {
+        "label": "Panasonic Lumix DC-G9",
+        "href": "https://www.dpreview.com/products/panasonic/slrs/panasonic_dcg9"
+      },
+      {
+        "label": "Rylo Camera",
+        "href": "https://www.dpreview.com/products/rylo/actioncams/rylo_camera"
+      },
+      {
+        "label": "Xiaomi Mi Sphere 3.5K",
+        "href": "https://www.dpreview.com/products/xiaomi/actioncams/xiaomi_mi_sphere_3p5k"
+      },
+      {
+        "label": "Sony a7R III",
+        "href": "https://www.dpreview.com/products/sony/slrs/sony_a7riii"
+      },
+      {
+        "label": "Canon PowerShot G1 X Mark III",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_g1xiii"
+      },
+      {
+        "label": "GoPro Hero6 Black",
+        "href": "https://www.dpreview.com/products/gopro/actioncams/gopro_hero6_black"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-RX10 IV",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dscrx10iv"
+      },
+      {
+        "label": "Fujifilm X-E3",
+        "href": "https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xe3"
+      },
+      {
+        "label": "Olympus OM-D E-M10 III",
+        "href": "https://www.dpreview.com/products/olympus/slrs/oly_em10iii"
+      },
+      {
+        "label": "Ricoh Theta V",
+        "href": "https://www.dpreview.com/products/ricoh/actioncams/ricoh_theta_v"
+      },
+      {
+        "label": "Sony DSC-RX0",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dscrx0"
+      },
+      {
+        "label": "Canon EOS M100",
+        "href": "https://www.dpreview.com/products/canon/slrs/canon_eosm100"
+      },
+      {
+        "label": "Nikon D850",
+        "href": "https://www.dpreview.com/products/nikon/slrs/nikon_d850"
+      },
+      {
+        "label": "Leica TL2",
+        "href": "https://www.dpreview.com/products/leica/slrs/leica_tl2"
+      },
+      {
+        "label": "Canon EOS 6D Mark II",
+        "href": "https://www.dpreview.com/products/canon/slrs/canon_eos6dmkii"
+      },
+      {
+        "label": "Canon EOS Rebel SL2",
+        "href": "https://www.dpreview.com/products/canon/slrs/canon_eos200d"
+      },
+      {
+        "label": "Nikon Coolpix W300",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cpw300"
+      },
+      {
+        "label": "Ricoh WG-50",
+        "href": "https://www.dpreview.com/products/ricoh/compacts/ricoh_wg50"
+      },
+      {
+        "label": "Olympus Tough TG-5",
+        "href": "https://www.dpreview.com/products/olympus/compacts/olympus_tg5"
+      },
+      {
+        "label": "GoPro Fusion",
+        "href": "https://www.dpreview.com/products/gopro/actioncams/gopro_fusion"
+      },
+      {
+        "label": "Panasonic Lumix DC-ZS70",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dczs70"
+      },
+      {
+        "label": "Sony a9",
+        "href": "https://www.dpreview.com/products/sony/slrs/sony_a9"
+      },
+      {
+        "label": "Nikon D7500",
+        "href": "https://www.dpreview.com/products/nikon/slrs/nikon_d7500"
+      },
+      {
+        "label": "Canon PowerShot SX730 HS",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_sx730hs"
+      },
+      {
+        "label": "Canon EOS 77D",
+        "href": "https://www.dpreview.com/products/canon/slrs/canon_eos77d"
+      },
+      {
+        "label": "Canon EOS M6",
+        "href": "https://www.dpreview.com/products/canon/slrs/canon_eosm6"
+      },
+      {
+        "label": "Canon EOS Rebel T7i",
+        "href": "https://www.dpreview.com/products/canon/slrs/canon_eos800d"
+      },
+      {
+        "label": "YI 4K Action Camera",
+        "href": "https://www.dpreview.com/products/yi/actioncams/yi_4k_12mp"
+      },
+      {
+        "label": "Pentax KP",
+        "href": "https://www.dpreview.com/products/pentax/slrs/pentax_kp"
+      },
+      {
+        "label": "Fujifilm X100F",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_x100f"
+      },
+      {
+        "label": "Fujifilm X-T20",
+        "href": "https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xt20"
+      },
+      {
+        "label": "Leica M10",
+        "href": "https://www.dpreview.com/products/leica/slrs/leica_m10"
+      },
+      {
+        "label": "YI 4K+ Action Camera",
+        "href": "https://www.dpreview.com/products/yi/actioncams/yi_4k_plus_12mp"
+      },
+      {
+        "label": "Fujifilm FinePix XP120",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_xp120"
+      },
+      {
+        "label": "Panasonic Lumix DC-GX850",
+        "href": "https://www.dpreview.com/products/panasonic/slrs/panasonic_dcgx850"
+      },
+      {
+        "label": "Panasonic Lumix DC-FZ80",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcfz80"
+      },
+      {
+        "label": "Panasonic Lumix DC-GH5",
+        "href": "https://www.dpreview.com/products/panasonic/slrs/panasonic_dcgh5"
+      },
+      {
+        "label": "Canon PowerShot G9 X Mark II",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_g9xii"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "cameras": [
+      {
+        "label": "Leica D-Lux 7",
+        "href": "https://www.dpreview.com/products/leica/compacts/leica_d-lux_7"
+      },
+      {
+        "label": "Leica Q-P",
+        "href": "https://www.dpreview.com/products/leica/compacts/leica_q-p"
+      },
+      {
+        "label": "Canon EOS Ra",
+        "href": "https://www.dpreview.com/products/canon/slrs/canon_eosra"
+      },
+      {
+        "label": "Leica M10-D",
+        "href": "https://www.dpreview.com/products/leica/slrs/leica_m10_d"
+      },
+      {
+        "label": "Ricoh WG-60",
+        "href": "https://www.dpreview.com/products/ricoh/compacts/ricoh_wg60"
+      },
+      {
+        "label": "Zeiss ZX1",
+        "href": "https://www.dpreview.com/products/zeiss/compacts/zeiss_zx1"
+      },
+      {
+        "label": "Fujifilm GFX 50R",
+        "href": "https://www.dpreview.com/products/fujifilm/slrs/fujifilm_gfx50r"
+      },
+      {
+        "label": "Ricoh GR III",
+        "href": "https://www.dpreview.com/products/ricoh/compacts/ricoh_griii"
+      },
+      {
+        "label": "GoPro Hero7 Black",
+        "href": "https://www.dpreview.com/products/gopro/actioncams/gopro_hero7_black"
+      },
+      {
+        "label": "GoPro Hero7 Silver",
+        "href": "https://www.dpreview.com/products/gopro/actioncams/gopro_hero7_silver"
+      },
+      {
+        "label": "GoPro Hero7 White",
+        "href": "https://www.dpreview.com/products/gopro/actioncams/gopro_hero7_white"
+      },
+      {
+        "label": "Canon PowerShot SX70 HS",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_sx70hs"
+      },
+      {
+        "label": "Fujifilm X-T3",
+        "href": "https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xt3"
+      },
+      {
+        "label": "Canon EOS R",
+        "href": "https://www.dpreview.com/products/canon/slrs/canon_eosr"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-HX99",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dschx99"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-HX95",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dschx95"
+      },
+      {
+        "label": "Nikon D3500",
+        "href": "https://www.dpreview.com/products/nikon/slrs/nikon_d3500"
+      },
+      {
+        "label": "Nikon Z7",
+        "href": "https://www.dpreview.com/products/nikon/slrs/nikon_z7"
+      },
+      {
+        "label": "Nikon Z6",
+        "href": "https://www.dpreview.com/products/nikon/slrs/nikon_z6"
+      },
+      {
+        "label": "Panasonic Lumix DC-LX100 II",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dclx100ii"
+      },
+      {
+        "label": "Leica M10-P",
+        "href": "https://www.dpreview.com/products/leica/slrs/leica_m10_p"
+      },
+      {
+        "label": "Canon PowerShot SX740 HS",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_sx740hs"
+      },
+      {
+        "label": "Fujifilm XF10",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_xf10"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-RX100 VA",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dscrx100m5a"
+      },
+      {
+        "label": "Nikon Coolpix P1000",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cpp1000"
+      },
+      {
+        "label": "Leica C-Lux",
+        "href": "https://www.dpreview.com/products/leica/compacts/leica_c-lux_2018"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-RX100 VI",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dscrx100m6"
+      },
+      {
+        "label": "Fujifilm X-T100",
+        "href": "https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xt100"
+      },
+      {
+        "label": "Panasonic Lumix DC-TS7",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dcts7"
+      },
+      {
+        "label": "Sony a7 III",
+        "href": "https://www.dpreview.com/products/sony/slrs/sony_a7iii"
+      },
+      {
+        "label": "Canon EOS M50",
+        "href": "https://www.dpreview.com/products/canon/slrs/canon_eosm50"
+      },
+      {
+        "label": "Canon EOS Rebel T7",
+        "href": "https://www.dpreview.com/products/canon/slrs/canon_eos2000d"
+      },
+      {
+        "label": "Canon EOS 4000D",
+        "href": "https://www.dpreview.com/products/canon/slrs/canon_eos4000d"
+      },
+      {
+        "label": "Pentax K-1 Mark II",
+        "href": "https://www.dpreview.com/products/pentax/slrs/pentax_k1ii"
+      },
+      {
+        "label": "Fujifilm X-H1",
+        "href": "https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xh1"
+      },
+      {
+        "label": "Panasonic Lumix DC-GX9",
+        "href": "https://www.dpreview.com/products/panasonic/slrs/panasonic_dcgx9"
+      },
+      {
+        "label": "Panasonic Lumix DC-ZS200",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dczs200"
+      },
+      {
+        "label": "Olympus PEN E-PL9",
+        "href": "https://www.dpreview.com/products/olympus/slrs/olympus_epl9"
+      },
+      {
+        "label": "Panasonic Lumix DC-GF10 (GF90)",
+        "href": "https://www.dpreview.com/products/panasonic/slrs/panasonic_dcgf10"
+      },
+      {
+        "label": "Fujifilm X-A5",
+        "href": "https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xa5"
+      },
+      {
+        "label": "Fujifilm FinePix XP130",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_xp130"
+      },
+      {
+        "label": "Panasonic Lumix DC-GH5S",
+        "href": "https://www.dpreview.com/products/panasonic/slrs/panasonic_dcgh5s"
+      }
+    ]
+  },
+  {
+    "year": 2019,
+    "cameras": [
+      {
+        "label": "Leica SL2",
+        "href": "https://www.dpreview.com/products/leica/compacts/leica_sl2"
+      },
+      {
+        "label": "Fujifilm X-Pro3",
+        "href": "https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xpro3"
+      },
+      {
+        "label": "Olympus OM-D E-M5 III",
+        "href": "https://www.dpreview.com/products/olympus/slrs/oly_em5iii"
+      },
+      {
+        "label": "Olympus PEN E-PL10",
+        "href": "https://www.dpreview.com/products/olympus/slrs/oly_epl10"
+      },
+      {
+        "label": "Nikon Z50",
+        "href": "https://www.dpreview.com/products/nikon/slrs/nikon_z50"
+      },
+      {
+        "label": "Sony a9 II",
+        "href": "https://www.dpreview.com/products/sony/slrs/sony_a9ii"
+      },
+      {
+        "label": "GoPro Hero8 Black",
+        "href": "https://www.dpreview.com/products/gopro/actioncams/gopro_hero8_black"
+      },
+      {
+        "label": "GoPro Max",
+        "href": "https://www.dpreview.com/products/gopro/actioncams/gopro_max"
+      },
+      {
+        "label": "Canon EOS M200",
+        "href": "https://www.dpreview.com/products/canon/slrs/canon_eosm200"
+      },
+      {
+        "label": "Fujifilm X-A7",
+        "href": "https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xa7"
+      },
+      {
+        "label": "Nikon D6",
+        "href": "https://www.dpreview.com/products/nikon/slrs/nikon_d6"
+      },
+      {
+        "label": "Canon EOS 90D",
+        "href": "https://www.dpreview.com/products/canon/slrs/canon_eos90d"
+      },
+      {
+        "label": "Canon EOS M6 Mark II",
+        "href": "https://www.dpreview.com/products/canon/slrs/canon_eosm6ii"
+      },
+      {
+        "label": "Sony a6100",
+        "href": "https://www.dpreview.com/products/sony/slrs/sony_a6100"
+      },
+      {
+        "label": "Sony a6600",
+        "href": "https://www.dpreview.com/products/sony/slrs/sony_a6600"
+      },
+      {
+        "label": "Sony Cyber-shot DSC-RX100 VII",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dscrx100m7"
+      },
+      {
+        "label": "Sony a7R IV",
+        "href": "https://www.dpreview.com/products/sony/slrs/sony_a7riv"
+      },
+      {
+        "label": "Sigma fp",
+        "href": "https://www.dpreview.com/products/sigma/slrs/sigma_fp"
+      },
+      {
+        "label": "Leica V-Lux 5",
+        "href": "https://www.dpreview.com/products/leica/compacts/leica_v-lux_5"
+      },
+      {
+        "label": "Canon PowerShot G7 X Mark III",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_g7xiii"
+      },
+      {
+        "label": "Canon PowerShot G5 X Mark II",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_g5xii"
+      },
+      {
+        "label": "Leica M-E (Typ 240)",
+        "href": "https://www.dpreview.com/products/leica/slrs/leica_m-e_typ240"
+      },
+      {
+        "label": "Hasselblad X1D II 50C",
+        "href": "https://www.dpreview.com/products/hasselblad/slrs/hasselblad_x1d50c_ii_50c"
+      },
+      {
+        "label": "Panasonic Lumix DC-S1H",
+        "href": "https://www.dpreview.com/products/panasonic/slrs/panasonic_dcs1h"
+      },
+      {
+        "label": "Fujifilm GFX 100",
+        "href": "https://www.dpreview.com/products/fujifilm/slrs/fujifilm_gfx100"
+      },
+      {
+        "label": "Olympus Tough TG-6",
+        "href": "https://www.dpreview.com/products/olympus/compacts/olympus_tg6"
+      },
+      {
+        "label": "Nikon Coolpix W150",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cpw150"
+      },
+      {
+        "label": "Canon EOS Rebel SL3",
+        "href": "https://www.dpreview.com/products/canon/slrs/canon_eos250d"
+      },
+      {
+        "label": "Panasonic Lumix DC-G95",
+        "href": "https://www.dpreview.com/products/panasonic/slrs/panasonic_dcg95"
+      },
+      {
+        "label": "Panasonic Lumix DC-G90",
+        "href": "https://www.dpreview.com/products/panasonic/slrs/panasonic_dcg90"
+      },
+      {
+        "label": "Sony DSC-RX0 II",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_dscrx0ii"
+      },
+      {
+        "label": "Leica Q2",
+        "href": "https://www.dpreview.com/products/leica/compacts/leica_q2"
+      },
+      {
+        "label": "Ricoh WG-6",
+        "href": "https://www.dpreview.com/products/ricoh/compacts/ricoh_wg6"
+      },
+      {
+        "label": "Ricoh G900",
+        "href": "https://www.dpreview.com/products/ricoh/compacts/ricoh_g900"
+      },
+      {
+        "label": "Panasonic Lumix DC-FZ1000 II",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dcfz1000m2"
+      },
+      {
+        "label": "Panasonic Lumix DC-ZS80",
+        "href": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dczs80"
+      },
+      {
+        "label": "Canon EOS RP",
+        "href": "https://www.dpreview.com/products/canon/slrs/canon_eosrp"
+      },
+      {
+        "label": "Fujifilm X-T30",
+        "href": "https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xt30"
+      },
+      {
+        "label": "Fujifilm FinePix XP140",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_xp140"
+      },
+      {
+        "label": "Panasonic Lumix DC-S1",
+        "href": "https://www.dpreview.com/products/panasonic/slrs/panasonic_dcs1"
+      },
+      {
+        "label": "Panasonic Lumix DC-S1R",
+        "href": "https://www.dpreview.com/products/panasonic/slrs/panasonic_dcs1r"
+      },
+      {
+        "label": "Olympus OM-D E-M1X",
+        "href": "https://www.dpreview.com/products/olympus/slrs/olympus_em1x"
+      },
+      {
+        "label": "Nikon Coolpix B600",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cpb600"
+      },
+      {
+        "label": "Nikon Coolpix A1000",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cpa1000"
+      },
+      {
+        "label": "Sony a6400",
+        "href": "https://www.dpreview.com/products/sony/slrs/sony_a6400"
+      }
+    ]
+  },
+  {
+    "year": 2020,
+    "cameras": [
+      {
+        "label": "Leica SL2-S",
+        "href": "https://www.dpreview.com/products/leica/compacts/leica_sl2-s"
+      },
+      {
+        "label": "Olympus OM-D E-M10 IIIs",
+        "href": "https://www.dpreview.com/products/olympus/slrs/olympus_em10iiis"
+      },
+      {
+        "label": "Leica Q2 Monochrom",
+        "href": "https://www.dpreview.com/products/leica/compacts/leica_q2_monochrom"
+      },
+      {
+        "label": "Fujifilm X-S10",
+        "href": "https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xs10"
+      },
+      {
+        "label": "Nikon Z6 II",
+        "href": "https://www.dpreview.com/products/nikon/slrs/nikon_z6ii"
+      },
+      {
+        "label": "Nikon Z7 II",
+        "href": "https://www.dpreview.com/products/nikon/slrs/nikon_z7ii"
+      },
+      {
+        "label": "Canon EOS M50 Mark II",
+        "href": "https://www.dpreview.com/products/canon/slrs/canon_eosm50ii"
+      },
+      {
+        "label": "Canon PowerShot Zoom",
+        "href": "https://www.dpreview.com/products/canon/compacts/canon_powershot_zoom"
+      },
+      {
+        "label": "Panasonic Lumix DC-BGH1",
+        "href": "https://www.dpreview.com/products/panasonic/slrs/panasonic_dcbgh1"
+      },
+      {
+        "label": "GoPro Hero9 Black",
+        "href": "https://www.dpreview.com/products/gopro/actioncams/gopro_hero9_black"
+      },
+      {
+        "label": "Sony a7C",
+        "href": "https://www.dpreview.com/products/sony/slrs/sony_a7c"
+      },
+      {
+        "label": "Panasonic Lumix DC-S5",
+        "href": "https://www.dpreview.com/products/panasonic/slrs/panasonic_dcs5"
+      },
+      {
+        "label": "Olympus OM-D E-M10 IV",
+        "href": "https://www.dpreview.com/products/olympus/slrs/olympus_em10iv"
+      },
+      {
+        "label": "Sony a7S III",
+        "href": "https://www.dpreview.com/products/sony/slrs/sony_a7siii"
+      },
+      {
+        "label": "Nikon Z5",
+        "href": "https://www.dpreview.com/products/nikon/slrs/nikon_z5"
+      },
+      {
+        "label": "Leica M10-R",
+        "href": "https://www.dpreview.com/products/leica/slrs/leica_m10-r"
+      },
+      {
+        "label": "Canon EOS R5",
+        "href": "https://www.dpreview.com/products/canon/slrs/canon_eosr5"
+      },
+      {
+        "label": "Canon EOS R6",
+        "href": "https://www.dpreview.com/products/canon/slrs/canon_eosr6"
+      },
+      {
+        "label": "Panasonic Lumix DC-G100",
+        "href": "https://www.dpreview.com/products/panasonic/slrs/panasonic_dcg100"
+      },
+      {
+        "label": "Sony ZV-1",
+        "href": "https://www.dpreview.com/products/sony/compacts/sony_zv1"
+      },
+      {
+        "label": "Fujifilm X-T4",
+        "href": "https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xt4"
+      },
+      {
+        "label": "Olympus OM-D E-M1 Mark III",
+        "href": "https://www.dpreview.com/products/olympus/slrs/olympus_em1iii"
+      },
+      {
+        "label": "Canon EOS Rebel T8i",
+        "href": "https://www.dpreview.com/products/canon/slrs/canon_eos850d"
+      },
+      {
+        "label": "Fujifilm X100V",
+        "href": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_x100v"
+      },
+      {
+        "label": "Ricoh WG-70",
+        "href": "https://www.dpreview.com/products/ricoh/compacts/ricoh_wg67"
+      },
+      {
+        "label": "Fujifilm X-T200",
+        "href": "https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xt200"
+      },
+      {
+        "label": "Leica M10 Monochrom",
+        "href": "https://www.dpreview.com/products/leica/slrs/leica_m10_monochrom"
+      },
+      {
+        "label": "Nikon D780",
+        "href": "https://www.dpreview.com/products/nikon/slrs/nikon_d780"
+      },
+      {
+        "label": "Nikon Coolpix P950",
+        "href": "https://www.dpreview.com/products/nikon/compacts/nikon_cpp950"
+      },
+      {
+        "label": "Canon EOS-1D X Mark III",
+        "href": "https://www.dpreview.com/products/canon/slrs/canon_eos1dxiii"
+      }
+    ]
+  },
+  {
+    "year": 2021,
+    "cameras": [
+      {
+        "label": "Fujifilm GFX 100S",
+        "href": "https://www.dpreview.com/products/fujifilm/slrs/fujifilm_gfx100s"
+      },
+      {
+        "label": "Fujifilm X-E4",
+        "href": "https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xe4"
+      },
+      {
+        "label": "Sony a1",
+        "href": "https://www.dpreview.com/products/sony/slrs/sony_a1"
+      }
+    ]
+  }
+]

@@ -1,4 +1,4 @@
-export default {
+{
   "?": 0,
   "Canon EF": 1,
   "Canon EF-M": 1.6,
@@ -8,8 +8,8 @@ export default {
   "Fujifilm G": 0.79,
   "Fujifilm X": 1.5,
   "Hasselblad X": 0.79,
+  "L-Mount": 1,
   "Leica M": 1,
-  "Leica SL": 1,
   "Leica TL": 1.5,
   "Micro Four Thirds": 2,
   "Nikon 1": 2.7,
@@ -29,4 +29,4 @@ export default {
   "Sony FE": 1,
   "Sony/Minolta Alpha": 1,
   "Sony/Minolta Alpha DT": 1.5
-};
+}

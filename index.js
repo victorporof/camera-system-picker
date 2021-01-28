@@ -2,54 +2,58 @@ import findLenses from "./src/find-lenses";
 import findCameras from "./src/find-cameras";
 
 // console.log(
-//   findLenses({
-//     focal: {
-//       covered: [16, 35],
-//       tolerances: [[-6, 3], [-11, 100]],
-//       cropped: false
+//   findCameras({
+//     include: {
+//       mounts: [/nikon/i],
+//       sensors: [/full frame/i],
 //     },
 //     exclude: {
-//       labels: [/fish-?eye/i],
-//       mounts: [/pentax|nikon 1|four thirds|minolta/i],
-//       weights: [/\?/i]
+//       weights: [/\?/i],
 //     },
 //     sorted: {
-//       byDate: true,
-//       byWeight: true
-//     }
+//       byWeight: true,
+//     },
 //   })
 // );
 
 // console.log(
 //   findLenses({
 //     focal: {
-//       covered: [70, 130],
-//       tolerance: [-20, 20]
-//     },
-//     include: {
-//       labels: [/sony/i]
+//       covered: [14, 35],
+//       tolerances: [
+//         [-4, 3],
+//         [-5, 100],
+//       ],
+//       cropped: false,
 //     },
 //     exclude: {
-//       weights: [/\?/i]
+//       labels: [/fish-?eye/i],
+//       mounts: [/pentax|nikon 1|four thirds|minolta/i],
+//       weights: [/\?/i],
 //     },
 //     sorted: {
 //       byDate: true,
-//       byWeight: true
-//     }
+//       byWeight: true,
+//     },
 //   })
 // );
 
 console.log(
-  findCameras({
-    include: {
-      mounts: [/nikon/i],
-      sensors: [/full frame/i]
+  findLenses({
+    focal: {
+      covered: [28],
+      tolerances: [[-2, 2]],
+      cropped: false,
+    },
+    fStop: {
+      covered: [1.8],
+      tolerance: [-0.85, 0.2],
     },
     exclude: {
-      weights: [/\?/i]
+      weights: [/\?/i],
     },
     sorted: {
-      byWeight: true
-    }
+      byDate: true,
+    },
   })
 );
