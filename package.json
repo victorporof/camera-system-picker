@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "delay": "^4.3.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "moment": "^2.24.0",
     "puppeteer": "^5.5.0"
   },
